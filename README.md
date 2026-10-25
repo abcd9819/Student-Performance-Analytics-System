@@ -1,6 +1,6 @@
 # Student Analytics System
 
-A Python-based command-line application for managing and analyzing
+A Python-based command-line application for managing and analyzin
 student information and academic performance. The project loads student
 details and grades from CSV files, combines the records, and provides
 tools for viewing student marksheets, analyzing data, visualizing
