@@ -1,0 +1,501 @@
+StudentID,FirstName,LastName,Gender,DateOfBirth,Grade,Section,Stream,GPA,AttendancePercent,EnrollmentDate,Status,Email,PhoneNumber,City,State,BloodGroup,GuardianName,GuardianPhone
+STU0001,James,Green,Male,2011-11-04,10,A,General,5.26,93.9,2025-02-17,Inactive,james.green@studentmail.com,9906407983,Ahmedabad,Gujarat,O-,Mei Green,9573622146
+STU0002,Ethan,Joshi,Male,2011-08-23,10,C,General,6.71,96.5,2021-12-30,Inactive,ethan.joshi@studentmail.com,9126563621,Lucknow,Uttar Pradesh,AB+,Divya Joshi,9490350503
+STU0003,Kenji,Mukherjee,Male,2009-11-15,12,B,Science,6.56,85.2,2025-03-25,Active,kenji.mukherjee@studentmail.com,9231010732,Bengaluru,Karnataka,B-,Ruhi Mukherjee,9824027511
+STU0004,Fatima,Hill,Female,2013-12-21,8,B,General,5.58,85.1,2025-11-10,Active,fatima.hill@studentmail.com,9698973996,Jaipur,Rajasthan,O+,Kabir Hill,9992712094
+STU0005,Samuel,Desai,Male,2012-01-01,9,A,General,3.89,88.3,2025-06-23,Active,samuel.desai@studentmail.com,9366113609,Delhi,Delhi,B-,Om Desai,9766873846
+STU0006,Priya,Harris,Female,2010-09-17,11,B,Science,6.05,82.9,2025-01-13,Active,priya.harris@studentmail.com,9503733571,Lucknow,Uttar Pradesh,B-,Reyansh Harris,9213960451
+STU0007,Andrew,Rodriguez,Male,2012-10-07,9,B,General,6.45,73.0,2024-11-21,Active,andrew.rodriguez@studentmail.com,9796032518,Delhi,Delhi,A+,Hannah Rodriguez,9151740895
+STU0008,William,Jones,Male,2014-05-15,7,C,General,6.54,85.9,2025-08-14,Active,william.jones@studentmail.com,9602189461,Hyderabad,Telangana,AB+,Lucas Jones,9449813560
+STU0009,Lucas,Menon,Male,2013-11-14,8,B,General,5.18,87.6,2023-07-24,Inactive,lucas.menon@studentmail.com,9711855694,Bengaluru,Karnataka,B-,Sang Menon,9704335600
+STU0010,Aisha,Qureshi,Female,2013-07-30,8,A,General,5.51,83.6,2023-04-19,Active,aisha.qureshi@studentmail.com,9203562307,Mumbai,Maharashtra,A+,Carlos Qureshi,9124672126
+STU0011,Benjamin,Green,Male,2010-07-02,11,C,Commerce,7.94,92.6,2021-01-23,Active,benjamin.green@studentmail.com,9402184162,Lucknow,Uttar Pradesh,A+,Myra Green,9410908058
+STU0012,Ira,Clark,Female,2011-08-01,10,B,General,6.89,82.6,2024-09-21,Active,ira.clark@studentmail.com,9932050878,Kochi,Kerala,B-,Shaurya Clark,9296996317
+STU0013,Antonio,Qureshi,Male,2013-12-03,8,C,General,6.88,89.6,2020-07-17,Active,antonio.qureshi@studentmail.com,9162595838,Pune,Maharashtra,O-,Ryan Qureshi,9829224448
+STU0014,Simran,Menon,Female,2010-01-03,11,D,Science,4.61,94.8,2024-05-22,Inactive,simran.menon@studentmail.com,9954018130,Surat,Gujarat,O+,Dev Menon,9786245921
+STU0015,Antonio,Nair,Male,2015-06-20,6,B,General,7.06,80.7,2023-05-07,Inactive,antonio.nair@studentmail.com,9274172362,Nagpur,Maharashtra,B-,Minjun Nair,9417067202
+STU0016,James,Mitchell,Male,2014-03-01,7,B,General,4.94,90.7,2026-03-11,Active,james.mitchell@studentmail.com,9168290430,Mumbai,Maharashtra,AB-,Divya Mitchell,9424966657
+STU0017,Lily,Campbell,Female,2013-02-14,8,A,General,6.81,93.8,2025-12-18,Active,lily.campbell@studentmail.com,9280755333,Delhi,Delhi,B-,Ira Campbell,9564497086
+STU0018,Ryan,Turner,Male,2010-06-18,11,B,Commerce,5.11,81.0,2021-09-26,Active,ryan.turner@studentmail.com,9256081577,Jaipur,Rajasthan,AB+,Hannah Turner,9773103851
+STU0019,David,Wilson,Male,2010-03-30,11,C,Science,7.64,79.5,2020-07-14,Active,david.wilson@studentmail.com,9458644464,Nagpur,Maharashtra,B+,Noor Wilson,9791883469
+STU0020,Priya,Roberts,Female,2010-02-18,11,B,Arts,4.74,81.2,2022-03-01,Active,priya.roberts@studentmail.com,9321589095,Mumbai,Maharashtra,O-,Thandiwe Roberts,9822781712
+STU0021,Sophia,Martinez,Female,2013-09-08,8,D,General,8.49,95.5,2024-01-31,Active,sophia.martinez@studentmail.com,9243059249,Jaipur,Rajasthan,O-,Ishaan Martinez,9616125120
+STU0022,Carmen,Joshi,Female,2009-12-05,12,C,Commerce,6.71,82.1,2024-03-23,Active,carmen.joshi@studentmail.com,9915317395,Chandigarh,Chandigarh,B+,Antonio Joshi,9666928117
+STU0023,Charlotte,Jackson,Female,2011-11-07,10,B,General,8.19,92.4,2022-02-18,Active,charlotte.jackson@studentmail.com,9960983122,Chennai,Tamil Nadu,A+,Kabir Jackson,9401041973
+STU0024,Antonio,Anderson,Male,2011-12-15,10,A,General,6.41,76.3,2024-12-23,Active,antonio.anderson@studentmail.com,9867528908,Bhopal,Madhya Pradesh,B+,Abigail Anderson,9143242805
+STU0025,Avni,Taylor,Female,2014-08-24,7,D,General,4.11,91.7,2024-06-27,Active,avni.taylor@studentmail.com,9700239801,Indore,Madhya Pradesh,O-,Thandiwe Taylor,9617336025
+STU0026,Ruhi,Anderson,Female,2012-09-23,9,A,General,4.44,96.8,2025-07-29,Active,ruhi.anderson@studentmail.com,9248119981,Surat,Gujarat,O-,Gaurav Anderson,9951833295
+STU0027,Veer,Williams,Male,2015-02-05,6,A,General,7.28,97.8,2026-05-02,Inactive,veer.williams@studentmail.com,9514715765,Pune,Maharashtra,A-,Layla Williams,9590661361
+STU0028,Nandini,Jones,Female,2012-08-27,9,B,General,4.93,83.2,2023-02-19,Inactive,nandini.jones@studentmail.com,9549755195,Chandigarh,Chandigarh,AB-,Rahul Jones,9625010491
+STU0029,Soo,Patel,Female,2013-10-16,8,B,General,5.87,94.6,2024-07-19,Inactive,soo.patel@studentmail.com,9695562137,Bengaluru,Karnataka,A-,Ethan Patel,9591008216
+STU0030,Nathan,Perez,Male,2010-09-21,11,A,Commerce,4.48,98.8,2020-10-20,Active,nathan.perez@studentmail.com,9150481286,Bhopal,Madhya Pradesh,O-,Minjun Perez,9197806756
+STU0031,Omar,Jackson,Male,2012-01-17,9,A,General,4.55,83.6,2020-08-01,Inactive,omar.jackson@studentmail.com,9573662968,Ahmedabad,Gujarat,A-,Nia Jackson,9291631126
+STU0032,Nandini,Miller,Female,2014-03-13,7,D,General,7.04,94.8,2020-06-07,Active,nandini.miller@studentmail.com,9775671921,Bengaluru,Karnataka,O-,Avni Miller,9820303084
+STU0033,Ethan,Mishra,Male,2010-05-05,11,D,Arts,3.52,93.0,2025-09-14,Active,ethan.mishra@studentmail.com,9221476936,Bengaluru,Karnataka,O-,Ayaan Mishra,9236552193
+STU0034,Chloe,Walker,Female,2010-11-15,11,C,Commerce,3.72,85.1,2025-01-07,Active,chloe.walker@studentmail.com,9209157391,Bhopal,Madhya Pradesh,B+,Amara Walker,9688324582
+STU0035,Yasmin,Carter,Female,2012-08-19,9,C,General,4.52,76.9,2023-02-19,Active,yasmin.carter@studentmail.com,9889131109,Kochi,Kerala,A+,Nia Carter,9985602634
+STU0036,Adaeze,Green,Female,2013-09-27,8,C,General,8.8,72.4,2022-11-21,Inactive,adaeze.green@studentmail.com,9515978949,Nagpur,Maharashtra,O+,Nia Green,9491063353
+STU0037,Karan,Iyer,Male,2014-08-23,7,D,General,8.91,89.8,2024-04-22,Active,karan.iyer@studentmail.com,9352335942,Bengaluru,Karnataka,O+,Diya Iyer,9433510237
+STU0038,Ryan,King,Male,2009-03-09,12,A,Arts,3.96,72.6,2021-06-09,Active,ryan.king@studentmail.com,9167338439,Indore,Madhya Pradesh,O+,Mahi King,9634587469
+STU0039,Grace,Nair,Female,2010-07-30,11,B,Commerce,8.98,88.2,2021-05-06,Inactive,grace.nair@studentmail.com,9442697161,Delhi,Delhi,AB+,Trisha Nair,9760288892
+STU0040,Aisha,Wilson,Female,2009-02-26,12,C,Commerce,9.29,72.1,2023-03-08,Active,aisha.wilson@studentmail.com,9848584266,Lucknow,Uttar Pradesh,AB-,Ananya Wilson,9881689346
+STU0041,Evelyn,Martinez,Female,2009-07-04,12,C,Commerce,9.44,85.0,2025-01-19,Inactive,evelyn.martinez@studentmail.com,9861307985,Mumbai,Maharashtra,A+,Sang Martinez,9680223492
+STU0042,Sneha,Carter,Female,2011-03-06,10,A,General,8.55,96.5,2021-08-17,Active,sneha.carter@studentmail.com,9845980490,Lucknow,Uttar Pradesh,A-,Ayaan Carter,9212631916
+STU0043,Joseph,Jones,Male,2014-11-07,7,C,General,6.29,92.0,2024-11-13,Active,joseph.jones@studentmail.com,9716472975,Hyderabad,Telangana,O-,Kajal Jones,9981895857
+STU0044,Harsh,King,Male,2012-07-19,9,A,General,6.75,96.0,2021-04-02,Active,harsh.king@studentmail.com,9719554672,Kochi,Kerala,AB-,Aryan King,9396835699
+STU0045,Thandiwe,Wright,Female,2013-04-02,8,B,General,9.75,85.3,2024-06-13,Inactive,thandiwe.wright@studentmail.com,9769167389,Kolkata,West Bengal,B+,Kenji Wright,9957186821
+STU0046,Atharv,Harris,Male,2015-05-26,6,D,General,9.11,75.7,2023-10-07,Active,atharv.harris@studentmail.com,9412553477,Chandigarh,Chandigarh,A-,Nitya Harris,9196719122
+STU0047,Elena,Clark,Female,2015-04-14,6,C,General,8.81,87.5,2023-04-07,Inactive,elena.clark@studentmail.com,9956424036,Kochi,Kerala,AB-,Radhika Clark,9676921423
+STU0048,Atharv,Rao,Male,2014-11-27,7,D,General,3.76,79.8,2022-09-29,Active,atharv.rao@studentmail.com,9835478912,Ahmedabad,Gujarat,O-,Arjun Rao,9230199956
+STU0049,Harper,Taylor,Female,2009-05-15,12,B,Arts,8.41,99.4,2023-12-22,Active,harper.taylor@studentmail.com,9690466873,Surat,Gujarat,AB-,Kunal Taylor,9308881609
+STU0050,Hannah,Rodriguez,Female,2010-06-10,11,A,Commerce,8.88,74.6,2025-02-10,Active,hannah.rodriguez@studentmail.com,9857743095,Indore,Madhya Pradesh,A-,Nikhil Rodriguez,9660038154
+STU0051,Wei,Chopra,Male,2013-01-05,8,C,General,3.29,82.9,2022-06-05,Active,wei.chopra@studentmail.com,9533655123,Nagpur,Maharashtra,AB-,Lucia Chopra,9841108875
+STU0052,Luis,Bose,Male,2014-08-20,7,A,General,8.03,77.6,2020-10-13,Active,luis.bose@studentmail.com,9581982324,Kochi,Kerala,O-,Grace Bose,9845625775
+STU0053,Aarav,Sharma,Male,2013-04-11,8,B,General,4.69,99.0,2025-05-20,Active,aarav.sharma@studentmail.com,9205850962,Nagpur,Maharashtra,O-,Kavya Sharma,9477395457
+STU0054,Minjun,Pandey,Male,2014-04-11,7,A,General,6.42,73.7,2025-12-04,Active,minjun.pandey@studentmail.com,9834733429,Kolkata,West Bengal,O-,Raj Pandey,9649972817
+STU0055,David,Jackson,Male,2014-07-22,7,C,General,6.54,83.6,2026-01-02,Inactive,david.jackson@studentmail.com,9973523651,Bengaluru,Karnataka,B+,Ananya Jackson,9724674441
+STU0056,Kenji,Patel,Male,2010-12-27,11,B,Science,6.25,76.3,2023-11-23,Active,kenji.patel@studentmail.com,9902157167,Chennai,Tamil Nadu,A+,Sang Patel,9246067082
+STU0057,Ananya,Brown,Female,2015-08-25,6,C,General,8.97,95.0,2021-01-10,Active,ananya.brown@studentmail.com,9904989802,Bengaluru,Karnataka,B-,Nakul Brown,9468206874
+STU0058,Sneha,Mishra,Female,2015-07-25,6,B,General,5.87,84.8,2021-02-05,Active,sneha.mishra@studentmail.com,9237556478,Kochi,Kerala,B+,David Mishra,9683788336
+STU0059,Andrew,Trivedi,Male,2010-02-07,11,D,Science,5.8,76.7,2021-10-21,Active,andrew.trivedi@studentmail.com,9352817407,Surat,Gujarat,B-,Sneha Trivedi,9178068600
+STU0060,Siddharth,Nair,Male,2013-07-08,8,B,General,4.16,74.4,2021-09-26,Inactive,siddharth.nair@studentmail.com,9745498502,Mumbai,Maharashtra,B+,Jose Nair,9981680454
+STU0061,Kunal,Chatterjee,Male,2010-09-30,11,D,Science,5.53,85.6,2025-08-14,Active,kunal.chatterjee@studentmail.com,9865752558,Surat,Gujarat,AB+,Reyansh Chatterjee,9486101655
+STU0062,Gauri,Sheikh,Female,2010-01-21,11,D,Commerce,5.84,95.2,2023-07-06,Active,gauri.sheikh@studentmail.com,9340424709,Nagpur,Maharashtra,A-,Amara Sheikh,9344338576
+STU0063,William,Mitchell,Male,2009-01-06,12,D,Commerce,8.55,79.9,2024-11-30,Active,william.mitchell@studentmail.com,9989866351,Bengaluru,Karnataka,O+,Jia Mitchell,9427656468
+STU0064,Priya,Lee,Female,2010-09-13,11,C,Arts,7.09,76.9,2026-04-17,Active,priya.lee@studentmail.com,9283527118,Pune,Maharashtra,O+,Oliver Lee,9136389872
+STU0065,Manav,Verma,Male,2009-11-18,12,D,Science,6.73,98.9,2025-03-05,Active,manav.verma@studentmail.com,9435530483,Delhi,Delhi,AB+,Benjamin Verma,9635006613
+STU0066,Chloe,Hall,Female,2011-05-27,10,B,General,8.18,91.6,2021-06-11,Active,chloe.hall@studentmail.com,9421542824,Delhi,Delhi,AB+,Mahi Hall,9789702624
+STU0067,Manav,King,Male,2009-03-02,12,A,Science,3.49,96.6,2022-05-06,Active,manav.king@studentmail.com,9197497735,Kolkata,West Bengal,O-,Tanvi King,9813825645
+STU0068,Yuvraj,Miller,Male,2014-08-07,7,D,General,9.47,80.8,2023-04-26,Active,yuvraj.miller@studentmail.com,9414412804,Pune,Maharashtra,A-,Tanvi Miller,9757025452
+STU0069,Aarav,Iyer,Male,2014-07-10,7,B,General,9.52,73.2,2025-03-22,Active,aarav.iyer@studentmail.com,9598500721,Delhi,Delhi,B-,Abigail Iyer,9882692830
+STU0070,Harper,Singh,Female,2013-09-07,8,A,General,8.04,92.8,2024-04-28,Active,harper.singh@studentmail.com,9913271028,Kochi,Kerala,B+,Ayaan Singh,9153338752
+STU0071,Dev,Brown,Male,2014-11-17,7,B,General,6.12,78.0,2022-12-31,Active,dev.brown@studentmail.com,9707959214,Surat,Gujarat,O-,Ananya Brown,9203183308
+STU0072,Isha,Miller,Female,2014-08-11,7,C,General,5.55,99.8,2021-04-07,Active,isha.miller@studentmail.com,9381001409,Chandigarh,Chandigarh,B-,Aditya Miller,9792559915
+STU0073,Advait,Mukherjee,Male,2010-08-24,11,A,Commerce,6.88,84.4,2025-06-22,Active,advait.mukherjee@studentmail.com,9801176644,Jaipur,Rajasthan,O+,Camila Mukherjee,9177646106
+STU0074,Varun,Hussain,Male,2014-07-26,7,C,General,4.27,86.3,2021-08-28,Active,varun.hussain@studentmail.com,9510481075,Jaipur,Rajasthan,AB-,Khushi Hussain,9670661553
+STU0075,Siddharth,Taylor,Male,2010-10-01,11,D,Arts,7.16,95.3,2021-02-16,Active,siddharth.taylor@studentmail.com,9649394169,Bhopal,Madhya Pradesh,O-,Jose Taylor,9713703986
+STU0076,Elena,Malhotra,Female,2011-04-07,10,D,General,6.19,83.0,2021-03-13,Active,elena.malhotra@studentmail.com,9934577632,Chandigarh,Chandigarh,AB+,Kwame Malhotra,9656905897
+STU0077,Myra,Garcia,Female,2011-09-09,10,A,General,4.24,86.2,2025-08-26,Active,myra.garcia@studentmail.com,9478649643,Surat,Gujarat,AB+,Emma Garcia,9730073034
+STU0078,Avni,Garcia,Female,2009-10-22,12,A,Science,6.71,86.0,2022-10-01,Inactive,avni.garcia@studentmail.com,9303028348,Chandigarh,Chandigarh,O-,Radhika Garcia,9534422261
+STU0079,Carmen,Iyer,Female,2014-05-19,7,B,General,8.74,96.5,2023-03-29,Active,carmen.iyer@studentmail.com,9339234015,Bhopal,Madhya Pradesh,AB+,Rahul Iyer,9713495778
+STU0080,Yuvraj,Davis,Male,2009-02-07,12,D,Commerce,9.51,98.4,2024-01-28,Active,yuvraj.davis@studentmail.com,9281802593,Lucknow,Uttar Pradesh,O+,Olivia Davis,9180114499
+STU0081,Yasmin,Khan,Female,2013-08-30,8,A,General,7.92,73.4,2021-04-02,Active,yasmin.khan@studentmail.com,9678878771,Hyderabad,Telangana,B+,Zara Khan,9480043786
+STU0082,Manav,Banerjee,Male,2009-01-25,12,C,Arts,7.17,76.2,2022-04-28,Active,manav.banerjee@studentmail.com,9758434218,Ahmedabad,Gujarat,AB+,Kabir Banerjee,9657740658
+STU0083,Noah,Jones,Male,2011-05-26,10,B,General,9.17,79.5,2026-01-01,Active,noah.jones@studentmail.com,9745401556,Jaipur,Rajasthan,A-,Valentina Jones,9443107345
+STU0084,Avni,Verma,Female,2010-03-15,11,B,Commerce,5.74,86.3,2025-01-18,Active,avni.verma@studentmail.com,9660259362,Kochi,Kerala,O-,Simran Verma,9156211002
+STU0085,Vanya,Young,Female,2015-01-14,6,D,General,4.69,72.2,2026-01-11,Active,vanya.young@studentmail.com,9268179598,Kolkata,West Bengal,O+,Pari Young,9601542646
+STU0086,Manav,Davis,Male,2015-02-08,6,C,General,8.54,99.8,2024-11-09,Active,manav.davis@studentmail.com,9528328852,Chennai,Tamil Nadu,O-,Pari Davis,9895409377
+STU0087,Nathan,Wright,Male,2015-02-14,6,A,General,7.38,81.6,2025-06-11,Active,nathan.wright@studentmail.com,9150543321,Ahmedabad,Gujarat,O+,Om Wright,9523880534
+STU0088,Harsh,Williams,Male,2014-06-10,7,B,General,6.99,98.8,2025-02-08,Active,harsh.williams@studentmail.com,9293926257,Nagpur,Maharashtra,A+,Nitya Williams,9822079098
+STU0089,Vihaan,Jones,Male,2013-10-14,8,D,General,6.76,75.4,2021-06-13,Inactive,vihaan.jones@studentmail.com,9326651295,Bengaluru,Karnataka,B-,Raj Jones,9611525329
+STU0090,Rahul,Young,Male,2014-06-29,7,D,General,5.49,94.4,2021-06-03,Active,rahul.young@studentmail.com,9501499512,Surat,Gujarat,B+,Siya Young,9775302394
+STU0091,Sanya,Harris,Female,2012-08-06,9,D,General,6.47,74.0,2025-10-24,Active,sanya.harris@studentmail.com,9920027295,Nagpur,Maharashtra,O-,Daniel Harris,9175607984
+STU0092,Aisha,Bhatia,Female,2013-01-24,8,C,General,6.44,84.5,2023-04-06,Inactive,aisha.bhatia@studentmail.com,9792333248,Mumbai,Maharashtra,AB+,Maria Bhatia,9132338874
+STU0093,Aadhya,Lopez,Female,2012-06-09,9,B,General,7.09,81.7,2022-10-31,Inactive,aadhya.lopez@studentmail.com,9410661993,Indore,Madhya Pradesh,A+,Olivia Lopez,9151008496
+STU0094,Radhika,Johnson,Female,2011-12-05,10,B,General,6.73,93.9,2025-06-04,Active,radhika.johnson@studentmail.com,9692912322,Bengaluru,Karnataka,O-,Evelyn Johnson,9882157293
+STU0095,Liam,Agarwal,Male,2011-01-23,10,D,General,8.45,77.5,2023-06-16,Active,liam.agarwal@studentmail.com,9972317037,Indore,Madhya Pradesh,A-,Mahi Agarwal,9267569774
+STU0096,Carmen,Adams,Female,2012-01-20,9,C,General,6.14,81.9,2020-10-14,Active,carmen.adams@studentmail.com,9985725791,Kolkata,West Bengal,O-,Ruhi Adams,9499349635
+STU0097,Lucia,Agarwal,Female,2014-08-08,7,B,General,7.81,96.7,2022-03-17,Inactive,lucia.agarwal@studentmail.com,9994387485,Surat,Gujarat,O-,Mason Agarwal,9139119502
+STU0098,Rahul,Saxena,Male,2010-07-16,11,A,Arts,8.24,75.2,2025-03-20,Active,rahul.saxena@studentmail.com,9459975587,Nagpur,Maharashtra,AB-,Valentina Saxena,9779561283
+STU0099,Jia,Joshi,Female,2014-05-19,7,A,General,9.16,90.4,2024-09-16,Active,jia.joshi@studentmail.com,9322389953,Bengaluru,Karnataka,A+,Ethan Joshi,9947832270
+STU0100,Adaeze,Saxena,Female,2013-03-04,8,C,General,4.44,78.9,2023-07-14,Active,adaeze.saxena@studentmail.com,9607383531,Hyderabad,Telangana,AB-,Olivia Saxena,9264230659
+STU0101,Charlotte,Desai,Female,2015-02-27,6,A,General,7.81,86.3,2025-01-08,Active,charlotte.desai@studentmail.com,9382888709,Delhi,Delhi,AB-,Kabir Desai,9214813587
+STU0102,Riya,Davis,Female,2012-05-20,9,A,General,9.29,89.3,2020-09-27,Active,riya.davis@studentmail.com,9336642175,Kolkata,West Bengal,AB+,Yuki Davis,9431162561
+STU0103,Thandiwe,Singh,Female,2011-12-12,10,A,General,6.76,81.5,2023-01-10,Active,thandiwe.singh@studentmail.com,9708092754,Kochi,Kerala,A-,Vikram Singh,9999333149
+STU0104,Diya,Davis,Female,2014-06-18,7,B,General,7.09,76.1,2024-08-27,Active,diya.davis@studentmail.com,9220169244,Nagpur,Maharashtra,A+,Harsh Davis,9121052924
+STU0105,Miguel,Rao,Male,2009-06-04,12,D,Science,5.54,95.2,2023-12-28,Inactive,miguel.rao@studentmail.com,9705410756,Chennai,Tamil Nadu,AB+,Nikhil Rao,9398225981
+STU0106,Sanya,Jackson,Female,2015-03-02,6,D,General,8.66,76.9,2022-10-24,Active,sanya.jackson@studentmail.com,9776652979,Nagpur,Maharashtra,O+,Neha Jackson,9847512970
+STU0107,Elena,Miller,Female,2009-11-03,12,C,Arts,5.76,72.9,2021-01-26,Inactive,elena.miller@studentmail.com,9139929741,Pune,Maharashtra,B-,David Miller,9411006801
+STU0108,Jia,Martin,Female,2013-04-07,8,A,General,4.54,99.4,2023-06-21,Active,jia.martin@studentmail.com,9459720837,Pune,Maharashtra,O-,Raj Martin,9277839894
+STU0109,Valentina,Rodriguez,Female,2010-04-17,11,D,Science,8.56,82.5,2021-01-01,Active,valentina.rodriguez@studentmail.com,9537055323,Bengaluru,Karnataka,A-,Sara Rodriguez,9506268024
+STU0110,Carlos,Clark,Male,2011-05-27,10,C,General,7.91,94.9,2021-11-28,Active,carlos.clark@studentmail.com,9519620371,Kolkata,West Bengal,AB-,Rahul Clark,9926661740
+STU0111,Elena,Kumar,Female,2015-05-12,6,C,General,7.73,87.3,2021-09-28,Active,elena.kumar@studentmail.com,9668092199,Hyderabad,Telangana,O-,Tanvi Kumar,9462185587
+STU0112,Varun,Kapoor,Male,2011-12-05,10,C,General,9.49,84.4,2021-03-13,Active,varun.kapoor@studentmail.com,9588416509,Bengaluru,Karnataka,B+,Isabella Kapoor,9475010532
+STU0113,Jia,Thomas,Female,2013-03-19,8,C,General,5.36,82.1,2020-10-09,Active,jia.thomas@studentmail.com,9912885272,Indore,Madhya Pradesh,AB-,Harper Thomas,9548378128
+STU0114,Vikram,Anderson,Male,2014-07-18,7,C,General,4.21,78.6,2024-12-14,Active,vikram.anderson@studentmail.com,9154429420,Ahmedabad,Gujarat,A+,Tara Anderson,9433910353
+STU0115,Neha,Nair,Female,2015-12-21,6,A,General,8.39,97.3,2022-01-28,Active,neha.nair@studentmail.com,9146215215,Chandigarh,Chandigarh,A+,Gauri Nair,9449941377
+STU0116,Diya,Hill,Female,2015-07-23,6,D,General,5.61,94.9,2025-07-01,Inactive,diya.hill@studentmail.com,9216162207,Jaipur,Rajasthan,B-,Sofia Hill,9397404875
+STU0117,Noor,Campbell,Female,2014-03-27,7,A,General,8.32,79.6,2020-11-08,Inactive,noor.campbell@studentmail.com,9738909184,Lucknow,Uttar Pradesh,O-,Reyansh Campbell,9180830909
+STU0118,Mei,Qureshi,Female,2015-11-07,6,D,General,6.69,88.4,2025-03-25,Active,mei.qureshi@studentmail.com,9147839433,Kochi,Kerala,B-,Gauri Qureshi,9401787916
+STU0119,Haruto,Martinez,Male,2012-09-24,9,B,General,8.9,77.5,2021-08-07,Active,haruto.martinez@studentmail.com,9314051659,Jaipur,Rajasthan,AB-,Maria Martinez,9222876074
+STU0120,Aryan,Hussain,Male,2009-05-19,12,A,Commerce,9.04,94.7,2023-02-23,Inactive,aryan.hussain@studentmail.com,9328278440,Bhopal,Madhya Pradesh,A+,Oliver Hussain,9991536203
+STU0121,Sipho,Baker,Male,2010-08-29,11,D,Arts,5.69,78.6,2020-10-23,Active,sipho.baker@studentmail.com,9240133621,Indore,Madhya Pradesh,AB+,Ava Baker,9139770890
+STU0122,Dev,Scott,Male,2009-07-02,12,A,Arts,7.59,95.8,2025-11-06,Active,dev.scott@studentmail.com,9211451702,Pune,Maharashtra,O-,Layla Scott,9552642734
+STU0123,Lucas,Pandey,Male,2011-04-18,10,C,General,4.4,76.7,2021-04-26,Active,lucas.pandey@studentmail.com,9821862941,Indore,Madhya Pradesh,O-,Sophia Pandey,9729203089
+STU0124,Caleb,Mukherjee,Male,2009-09-14,12,D,Science,7.98,95.5,2023-04-24,Active,caleb.mukherjee@studentmail.com,9378275943,Delhi,Delhi,AB-,Emily Mukherjee,9842816840
+STU0125,James,Qureshi,Male,2014-03-18,7,C,General,9.34,79.0,2024-01-18,Active,james.qureshi@studentmail.com,9222817337,Lucknow,Uttar Pradesh,A+,Kwame Qureshi,9793443697
+STU0126,Diego,Wright,Male,2013-02-12,8,C,General,6.97,77.0,2022-05-17,Active,diego.wright@studentmail.com,9279871201,Pune,Maharashtra,B+,Evelyn Wright,9407403079
+STU0127,Ali,Jones,Male,2013-04-20,8,C,General,9.17,88.8,2023-01-26,Active,ali.jones@studentmail.com,9206648576,Ahmedabad,Gujarat,AB+,Nitya Jones,9435537019
+STU0128,Myra,Hussain,Female,2015-01-27,6,C,General,6.3,82.3,2025-01-18,Active,myra.hussain@studentmail.com,9638826587,Nagpur,Maharashtra,O+,Manav Hussain,9857992845
+STU0129,Kabir,Nair,Male,2013-11-15,8,C,General,6.04,93.1,2023-10-31,Inactive,kabir.nair@studentmail.com,9206633833,Jaipur,Rajasthan,O-,Victoria Nair,9173753086
+STU0130,Henry,Pillai,Male,2009-10-17,12,A,Science,4.21,80.7,2021-08-16,Active,henry.pillai@studentmail.com,9266891992,Kolkata,West Bengal,B-,Riya Pillai,9162157411
+STU0131,Gauri,Mitchell,Female,2009-02-08,12,A,Commerce,9.76,96.6,2023-03-09,Active,gauri.mitchell@studentmail.com,9634941913,Nagpur,Maharashtra,A+,Khushi Mitchell,9804974214
+STU0132,Valentina,Roberts,Female,2015-04-15,6,A,General,5.31,81.8,2022-11-19,Active,valentina.roberts@studentmail.com,9349159438,Hyderabad,Telangana,O+,Tanvi Roberts,9426031473
+STU0133,Elena,Menon,Female,2015-01-15,6,D,General,9.16,90.2,2021-02-16,Active,elena.menon@studentmail.com,9283120793,Bengaluru,Karnataka,O+,Mia Menon,9102009034
+STU0134,Kajal,Rodriguez,Female,2013-06-02,8,B,General,5.36,86.6,2020-10-26,Active,kajal.rodriguez@studentmail.com,9214290180,Indore,Madhya Pradesh,B+,Saanvi Rodriguez,9951769739
+STU0135,Noor,Mitchell,Female,2011-01-13,10,C,General,7.11,87.0,2026-03-25,Inactive,noor.mitchell@studentmail.com,9260719476,Delhi,Delhi,B-,Ananya Mitchell,9945322223
+STU0136,Andrew,Mukherjee,Male,2015-07-15,6,C,General,9.27,76.6,2023-03-31,Inactive,andrew.mukherjee@studentmail.com,9456995662,Surat,Gujarat,A-,Elizabeth Mukherjee,9984930749
+STU0137,Evelyn,Sheikh,Female,2011-07-07,10,B,General,8.8,81.7,2023-04-25,Active,evelyn.sheikh@studentmail.com,9106286328,Kolkata,West Bengal,B+,Esha Sheikh,9319366653
+STU0138,Shaurya,Carter,Male,2010-05-17,11,B,Arts,9.18,80.7,2024-09-02,Active,shaurya.carter@studentmail.com,9297001526,Indore,Madhya Pradesh,AB+,Noor Carter,9674980305
+STU0139,Yuki,Agarwal,Female,2013-09-26,8,C,General,8.26,73.5,2024-07-31,Active,yuki.agarwal@studentmail.com,9197267878,Surat,Gujarat,B+,Reyansh Agarwal,9991847364
+STU0140,Yasmin,Williams,Female,2010-07-02,11,D,Arts,5.34,80.7,2020-12-04,Active,yasmin.williams@studentmail.com,9670362373,Kolkata,West Bengal,A-,Sara Williams,9255265725
+STU0141,Aadhya,Ahmed,Female,2009-03-17,12,A,Science,8.49,89.0,2023-09-21,Active,aadhya.ahmed@studentmail.com,9622576646,Indore,Madhya Pradesh,B+,Nia Ahmed,9516476939
+STU0142,Ali,Garcia,Male,2010-04-16,11,B,Commerce,7.41,93.2,2022-02-03,Active,ali.garcia@studentmail.com,9982599191,Delhi,Delhi,B-,Thabo Garcia,9156048321
+STU0143,Mahi,Gupta,Female,2010-01-17,11,A,Science,4.79,89.6,2023-09-12,Active,mahi.gupta@studentmail.com,9400182222,Lucknow,Uttar Pradesh,O-,Harsh Gupta,9198333702
+STU0144,Sahil,Qureshi,Male,2013-06-25,8,C,General,9.79,76.1,2024-06-02,Active,sahil.qureshi@studentmail.com,9227160395,Hyderabad,Telangana,AB+,Sanya Qureshi,9682953825
+STU0145,Radhika,Campbell,Female,2013-12-14,8,C,General,4.58,93.6,2021-01-17,Active,radhika.campbell@studentmail.com,9426509895,Surat,Gujarat,AB-,Luis Campbell,9891360218
+STU0146,Mason,Kumar,Male,2011-08-30,10,D,General,4.61,85.2,2022-05-26,Inactive,mason.kumar@studentmail.com,9832362845,Jaipur,Rajasthan,AB-,Camila Kumar,9340459761
+STU0147,Benjamin,Martinez,Male,2014-03-05,7,C,General,4.54,91.9,2021-11-05,Active,benjamin.martinez@studentmail.com,9835535877,Kolkata,West Bengal,AB-,Nia Martinez,9149515437
+STU0148,Isha,Agarwal,Female,2011-01-12,10,D,General,4.67,97.5,2021-03-03,Active,isha.agarwal@studentmail.com,9266078155,Surat,Gujarat,A+,Yasmin Agarwal,9732541295
+STU0149,Harper,Roberts,Female,2015-11-20,6,A,General,4.04,91.7,2021-02-17,Active,harper.roberts@studentmail.com,9197647042,Delhi,Delhi,B-,Anika Roberts,9353135225
+STU0150,Sophia,Agarwal,Female,2009-03-22,12,B,Arts,6.36,77.4,2020-12-04,Active,sophia.agarwal@studentmail.com,9246359196,Bhopal,Madhya Pradesh,B-,Myra Agarwal,9934314462
+STU0151,Sanya,Khan,Female,2015-11-01,6,B,General,8.97,98.1,2024-11-08,Active,sanya.khan@studentmail.com,9391205883,Delhi,Delhi,B-,Reyansh Khan,9402994640
+STU0152,Raj,Jones,Male,2011-12-11,10,D,General,9.06,92.3,2021-11-16,Active,raj.jones@studentmail.com,9471034178,Indore,Madhya Pradesh,A-,Harsh Jones,9606424697
+STU0153,Nisha,Perez,Female,2014-09-06,7,A,General,7.24,86.5,2022-05-01,Active,nisha.perez@studentmail.com,9543245918,Lucknow,Uttar Pradesh,O-,Reyansh Perez,9330053658
+STU0154,Miguel,Wright,Male,2014-03-11,7,A,General,6.36,92.5,2025-03-08,Active,miguel.wright@studentmail.com,9309489025,Hyderabad,Telangana,A+,Myra Wright,9197024966
+STU0155,Andrew,Wilson,Male,2014-10-01,7,A,General,9.59,86.4,2020-07-02,Active,andrew.wilson@studentmail.com,9245052391,Chennai,Tamil Nadu,AB+,Parth Wilson,9204784844
+STU0156,Anya,Bhatia,Female,2015-08-13,6,D,General,3.61,83.8,2025-02-17,Active,anya.bhatia@studentmail.com,9951974658,Bengaluru,Karnataka,B+,Divya Bhatia,9704824615
+STU0157,Nandini,Qureshi,Female,2012-04-25,9,C,General,8.35,99.2,2025-11-19,Inactive,nandini.qureshi@studentmail.com,9241011452,Ahmedabad,Gujarat,AB-,Shaurya Qureshi,9714548865
+STU0158,Manav,Wilson,Male,2010-01-04,11,D,Science,4.28,91.3,2025-05-27,Active,manav.wilson@studentmail.com,9998684144,Nagpur,Maharashtra,AB+,Benjamin Wilson,9195801197
+STU0159,Ali,Lopez,Male,2011-01-12,10,C,General,7.48,95.2,2022-04-11,Inactive,ali.lopez@studentmail.com,9152674336,Surat,Gujarat,AB+,Ishaan Lopez,9797928183
+STU0160,Daniel,Smith,Male,2011-09-22,10,D,General,6.33,89.4,2025-09-10,Active,daniel.smith@studentmail.com,9751447332,Chennai,Tamil Nadu,AB-,Nakul Smith,9447436041
+STU0161,Carlos,Agarwal,Male,2015-11-09,6,B,General,5.76,77.1,2023-01-22,Active,carlos.agarwal@studentmail.com,9980801751,Ahmedabad,Gujarat,A-,Vikram Agarwal,9563586600
+STU0162,Fatima,Bhatia,Female,2012-05-09,9,C,General,4.55,92.4,2025-09-16,Inactive,fatima.bhatia@studentmail.com,9876687817,Delhi,Delhi,B-,Nia Bhatia,9416764161
+STU0163,Reyansh,Adams,Male,2011-09-29,10,C,General,5.99,74.9,2021-09-19,Inactive,reyansh.adams@studentmail.com,9867717985,Surat,Gujarat,AB-,Simran Adams,9145984775
+STU0164,Pranav,Campbell,Male,2013-05-11,8,A,General,8.77,73.5,2022-10-31,Active,pranav.campbell@studentmail.com,9877412439,Chandigarh,Chandigarh,A+,William Campbell,9810340626
+STU0165,Nandini,Rao,Female,2012-06-30,9,A,General,7.48,89.8,2024-09-23,Active,nandini.rao@studentmail.com,9710145163,Indore,Madhya Pradesh,AB+,Vikram Rao,9452877626
+STU0166,Antonio,Mehta,Male,2015-01-30,6,A,General,7.75,94.7,2023-01-24,Active,antonio.mehta@studentmail.com,9828998786,Hyderabad,Telangana,AB+,Dev Mehta,9428964319
+STU0167,Jia,Johnson,Female,2012-06-12,9,C,General,6.0,86.1,2025-11-25,Active,jia.johnson@studentmail.com,9792572798,Lucknow,Uttar Pradesh,A+,Yasmin Johnson,9373270269
+STU0168,Soo,Clark,Female,2009-08-25,12,C,Commerce,3.89,74.8,2022-07-06,Active,soo.clark@studentmail.com,9900327271,Pune,Maharashtra,B+,Neha Clark,9726345268
+STU0169,Lucia,Patel,Female,2010-10-21,11,B,Science,8.74,90.1,2025-12-27,Active,lucia.patel@studentmail.com,9788903874,Delhi,Delhi,O+,Caleb Patel,9874966619
+STU0170,Lucia,Dutta,Female,2014-09-13,7,A,General,6.81,92.5,2024-03-28,Active,lucia.dutta@studentmail.com,9206992913,Jaipur,Rajasthan,B-,Nathan Dutta,9141056040
+STU0171,Raj,Carter,Male,2012-04-08,9,C,General,5.77,73.1,2023-08-26,Active,raj.carter@studentmail.com,9783592789,Bengaluru,Karnataka,O+,Minjun Carter,9115275420
+STU0172,Pari,Mehta,Female,2010-08-27,11,C,Commerce,6.85,93.6,2025-02-19,Active,pari.mehta@studentmail.com,9483024262,Jaipur,Rajasthan,B-,Priya Mehta,9671099711
+STU0173,Atharv,Pillai,Male,2015-04-03,6,A,General,6.26,75.2,2025-12-01,Active,atharv.pillai@studentmail.com,9658819755,Kochi,Kerala,B-,Marco Pillai,9665909228
+STU0174,Saanvi,Martinez,Female,2014-03-15,7,A,General,7.46,90.9,2023-09-15,Active,saanvi.martinez@studentmail.com,9420765481,Pune,Maharashtra,A-,Minjun Martinez,9184047952
+STU0175,Riya,Pandey,Female,2010-01-29,11,B,Science,8.1,94.5,2023-05-07,Inactive,riya.pandey@studentmail.com,9847211859,Bengaluru,Karnataka,O-,Adaeze Pandey,9725429284
+STU0176,Nikhil,Joshi,Male,2009-08-02,12,A,Arts,8.21,74.5,2023-01-27,Active,nikhil.joshi@studentmail.com,9288001806,Mumbai,Maharashtra,B-,Vikram Joshi,9318838624
+STU0177,Yuvraj,Walker,Male,2013-01-28,8,C,General,7.51,97.7,2024-09-23,Active,yuvraj.walker@studentmail.com,9670153078,Chandigarh,Chandigarh,A-,Aryan Walker,9672304149
+STU0178,Henry,Anderson,Male,2011-04-23,10,A,General,9.4,82.8,2023-08-16,Active,henry.anderson@studentmail.com,9102314425,Jaipur,Rajasthan,B-,Soo Anderson,9512432574
+STU0179,Kavya,Walker,Female,2015-10-03,6,C,General,4.58,93.0,2021-08-05,Active,kavya.walker@studentmail.com,9689150762,Lucknow,Uttar Pradesh,A+,Luis Walker,9463347373
+STU0180,Minjun,Miller,Male,2011-12-01,10,A,General,7.31,93.1,2022-01-14,Active,minjun.miller@studentmail.com,9484838153,Jaipur,Rajasthan,A+,Camila Miller,9587215359
+STU0181,Raj,Martin,Male,2014-12-16,7,D,General,5.94,93.9,2020-12-21,Active,raj.martin@studentmail.com,9981802580,Jaipur,Rajasthan,B-,Evelyn Martin,9846020297
+STU0182,Sahil,Carter,Male,2009-03-02,12,C,Science,5.59,82.8,2022-12-19,Active,sahil.carter@studentmail.com,9225623347,Hyderabad,Telangana,AB-,Om Carter,9671648228
+STU0183,Siddharth,Gupta,Male,2010-03-18,11,A,Arts,5.16,75.9,2020-12-13,Active,siddharth.gupta@studentmail.com,9926302168,Indore,Madhya Pradesh,AB+,Lakshay Gupta,9927697511
+STU0184,Lucia,Walker,Female,2014-01-03,7,A,General,4.07,77.9,2024-04-19,Inactive,lucia.walker@studentmail.com,9737713257,Delhi,Delhi,A+,Owen Walker,9124410029
+STU0185,Sipho,Taylor,Male,2011-04-22,10,D,General,6.77,90.6,2023-02-27,Inactive,sipho.taylor@studentmail.com,9507966806,Bhopal,Madhya Pradesh,O+,Abhinav Taylor,9606609314
+STU0186,Gauri,Trivedi,Female,2012-05-20,9,C,General,7.34,93.4,2024-05-26,Active,gauri.trivedi@studentmail.com,9283408312,Delhi,Delhi,A-,Adaeze Trivedi,9543340800
+STU0187,Parth,Bhatia,Male,2012-04-12,9,A,General,7.79,74.4,2025-03-27,Active,parth.bhatia@studentmail.com,9725750480,Bhopal,Madhya Pradesh,AB-,James Bhatia,9846934744
+STU0188,Varun,Patel,Male,2011-05-27,10,B,General,8.48,84.4,2024-04-05,Active,varun.patel@studentmail.com,9556026826,Chennai,Tamil Nadu,O+,Sneha Patel,9768062474
+STU0189,Yasmin,King,Female,2013-01-10,8,A,General,9.48,97.7,2026-04-14,Active,yasmin.king@studentmail.com,9234886138,Hyderabad,Telangana,AB-,Yuvraj King,9804434069
+STU0190,Ishaan,Campbell,Male,2012-05-21,9,B,General,9.21,79.3,2020-08-08,Active,ishaan.campbell@studentmail.com,9845650148,Indore,Madhya Pradesh,AB-,Daniel Campbell,9540953426
+STU0191,Diego,Miller,Male,2013-01-26,8,B,General,5.27,96.1,2023-12-19,Inactive,diego.miller@studentmail.com,9806150282,Hyderabad,Telangana,A-,Kunal Miller,9165224416
+STU0192,Tanvi,Jackson,Female,2012-11-18,9,B,General,4.62,76.9,2021-02-27,Active,tanvi.jackson@studentmail.com,9178209218,Mumbai,Maharashtra,A-,Sophia Jackson,9832569209
+STU0193,Aryan,Malhotra,Male,2012-02-23,9,D,General,5.1,98.0,2025-06-12,Inactive,aryan.malhotra@studentmail.com,9921889386,Lucknow,Uttar Pradesh,B-,Dhruv Malhotra,9455422632
+STU0194,Lucas,Nelson,Male,2011-10-16,10,B,General,5.99,83.7,2024-10-07,Active,lucas.nelson@studentmail.com,9774634621,Nagpur,Maharashtra,O+,Omar Nelson,9930507003
+STU0195,Kavya,Bhatia,Female,2012-12-20,9,B,General,9.18,93.3,2022-04-23,Active,kavya.bhatia@studentmail.com,9882913528,Bhopal,Madhya Pradesh,AB+,Pooja Bhatia,9978126710
+STU0196,Kritika,Rodriguez,Female,2011-06-05,10,C,General,9.54,78.1,2022-04-30,Active,kritika.rodriguez@studentmail.com,9299595776,Chandigarh,Chandigarh,B+,Tara Rodriguez,9666928244
+STU0197,Vihaan,Mitchell,Male,2014-02-27,7,A,General,5.45,85.6,2022-01-19,Active,vihaan.mitchell@studentmail.com,9582508078,Lucknow,Uttar Pradesh,A+,Henry Mitchell,9954086351
+STU0198,Aarav,Green,Male,2012-01-25,9,C,General,5.86,89.3,2021-06-14,Active,aarav.green@studentmail.com,9206583750,Bhopal,Madhya Pradesh,B-,Noor Green,9704467753
+STU0199,William,Nair,Male,2009-05-17,12,A,Arts,8.31,92.0,2022-08-11,Active,william.nair@studentmail.com,9552566167,Indore,Madhya Pradesh,AB-,Shaurya Nair,9675407223
+STU0200,Atharv,Reddy,Male,2010-06-21,11,C,Arts,7.32,80.2,2025-07-15,Active,atharv.reddy@studentmail.com,9923306152,Chandigarh,Chandigarh,B-,Rudra Reddy,9179205828
+STU0201,Marco,Patel,Male,2010-01-19,11,A,Commerce,7.8,81.0,2024-07-10,Active,marco.patel@studentmail.com,9360358852,Hyderabad,Telangana,AB-,Lucia Patel,9948425846
+STU0202,Ali,Jackson,Male,2010-07-27,11,C,Arts,9.76,94.8,2022-08-19,Active,ali.jackson@studentmail.com,9401645311,Kochi,Kerala,O+,Layla Jackson,9100911688
+STU0203,Haruto,Walker,Male,2015-12-14,6,C,General,7.66,92.5,2024-04-11,Active,haruto.walker@studentmail.com,9380603975,Chandigarh,Chandigarh,O+,Meera Walker,9155936963
+STU0204,Jose,Joshi,Male,2012-12-15,9,A,General,5.94,84.9,2026-01-19,Active,jose.joshi@studentmail.com,9587245328,Bengaluru,Karnataka,B+,Maria Joshi,9550755519
+STU0205,Kenji,Dutta,Male,2014-12-05,7,B,General,6.12,94.5,2022-04-02,Active,kenji.dutta@studentmail.com,9700584818,Hyderabad,Telangana,B+,Aditya Dutta,9940024058
+STU0206,Dhruv,Hussain,Male,2014-02-26,7,B,General,5.26,88.3,2024-06-10,Active,dhruv.hussain@studentmail.com,9433590173,Ahmedabad,Gujarat,B+,Yash Hussain,9890774772
+STU0207,Samuel,Chopra,Male,2009-11-03,12,A,Arts,7.02,85.6,2026-02-25,Inactive,samuel.chopra@studentmail.com,9487444175,Delhi,Delhi,A-,Harsh Chopra,9148521063
+STU0208,Anika,Martin,Female,2009-10-08,12,A,Science,8.03,93.3,2024-04-14,Active,anika.martin@studentmail.com,9318741406,Jaipur,Rajasthan,AB+,Mason Martin,9554722624
+STU0209,Nia,Banerjee,Female,2013-06-07,8,B,General,5.33,75.0,2024-01-11,Active,nia.banerjee@studentmail.com,9709015672,Surat,Gujarat,O-,Kritika Banerjee,9193983472
+STU0210,Caleb,Wilson,Male,2015-07-08,6,B,General,5.61,77.2,2020-11-03,Active,caleb.wilson@studentmail.com,9469067355,Nagpur,Maharashtra,A-,Pranav Wilson,9113109691
+STU0211,Oliver,Martin,Male,2013-07-30,8,B,General,3.95,85.2,2025-05-24,Active,oliver.martin@studentmail.com,9957944573,Hyderabad,Telangana,A-,Nakul Martin,9170639220
+STU0212,Avni,Adams,Female,2012-10-24,9,C,General,5.09,79.6,2021-03-08,Active,avni.adams@studentmail.com,9172122994,Hyderabad,Telangana,O-,Shaurya Adams,9223614969
+STU0213,Sanya,Clark,Female,2013-05-11,8,B,General,4.16,75.1,2025-01-09,Active,sanya.clark@studentmail.com,9861167336,Chandigarh,Chandigarh,O-,Gaurav Clark,9205853826
+STU0214,Amara,Harris,Female,2014-11-15,7,B,General,8.21,88.4,2024-11-30,Active,amara.harris@studentmail.com,9901623645,Chandigarh,Chandigarh,AB-,Riya Harris,9229099433
+STU0215,Ira,Mukherjee,Female,2009-04-30,12,C,Commerce,3.82,86.0,2023-10-27,Active,ira.mukherjee@studentmail.com,9514526088,Bengaluru,Karnataka,O+,Chloe Mukherjee,9363010885
+STU0216,Camila,Lopez,Female,2011-01-04,10,D,General,8.49,89.8,2021-07-22,Active,camila.lopez@studentmail.com,9229516584,Bengaluru,Karnataka,A+,Chloe Lopez,9133916680
+STU0217,Hana,Campbell,Female,2014-05-31,7,A,General,9.62,85.8,2024-02-08,Active,hana.campbell@studentmail.com,9795014064,Indore,Madhya Pradesh,A-,Manav Campbell,9826049779
+STU0218,Sipho,Scott,Male,2014-06-25,7,B,General,4.89,80.7,2021-09-28,Active,sipho.scott@studentmail.com,9909293697,Bhopal,Madhya Pradesh,O+,Manav Scott,9296793483
+STU0219,Wei,Sharma,Male,2012-04-26,9,B,General,3.87,76.7,2022-08-13,Inactive,wei.sharma@studentmail.com,9671363538,Mumbai,Maharashtra,O+,Siddharth Sharma,9459144749
+STU0220,Riya,Hall,Female,2015-01-30,6,B,General,4.79,86.4,2022-05-27,Active,riya.hall@studentmail.com,9398234961,Lucknow,Uttar Pradesh,B+,Soo Hall,9369580232
+STU0221,Khushi,Thomas,Female,2013-08-02,8,A,General,7.14,89.5,2024-09-17,Active,khushi.thomas@studentmail.com,9679801550,Surat,Gujarat,O-,Aryan Thomas,9494066289
+STU0222,Parth,Nair,Male,2009-09-06,12,C,Science,6.72,74.2,2021-08-03,Active,parth.nair@studentmail.com,9207844904,Pune,Maharashtra,AB+,Kwame Nair,9555313246
+STU0223,Ethan,Turner,Male,2009-06-12,12,D,Science,8.67,98.3,2024-05-06,Active,ethan.turner@studentmail.com,9169189123,Indore,Madhya Pradesh,A+,Camila Turner,9185115201
+STU0224,Sophia,King,Female,2010-07-19,11,B,Science,9.11,82.2,2022-10-13,Active,sophia.king@studentmail.com,9362404772,Delhi,Delhi,B-,Hassan King,9127923222
+STU0225,Trisha,Turner,Female,2010-11-28,11,B,Commerce,9.51,79.0,2025-08-15,Active,trisha.turner@studentmail.com,9513558144,Chennai,Tamil Nadu,A+,Aryan Turner,9275157154
+STU0226,Chidinma,Wright,Female,2013-08-17,8,A,General,4.31,82.2,2020-06-19,Active,chidinma.wright@studentmail.com,9277826891,Delhi,Delhi,A+,Matthew Wright,9678013089
+STU0227,Haruto,Menon,Male,2010-07-25,11,B,Science,7.96,80.2,2026-04-16,Active,haruto.menon@studentmail.com,9292817318,Indore,Madhya Pradesh,A-,Joseph Menon,9933965151
+STU0228,Aarav,Carter,Male,2013-06-24,8,C,General,5.17,97.9,2024-04-23,Active,aarav.carter@studentmail.com,9786361417,Delhi,Delhi,B+,Aisha Carter,9171811213
+STU0229,Riya,Clark,Female,2011-05-15,10,C,General,7.91,82.7,2026-04-05,Active,riya.clark@studentmail.com,9196755083,Hyderabad,Telangana,AB+,Luis Clark,9416638976
+STU0230,Soo,Verma,Female,2014-03-26,7,C,General,6.86,96.6,2022-10-08,Active,soo.verma@studentmail.com,9262055453,Surat,Gujarat,O+,Emma Verma,9982233032
+STU0231,Esha,Rodriguez,Female,2010-06-08,11,A,Science,7.71,94.1,2024-04-13,Inactive,esha.rodriguez@studentmail.com,9407578285,Hyderabad,Telangana,AB-,Neha Rodriguez,9786410761
+STU0232,Yuvraj,Sharma,Male,2014-12-23,7,A,General,4.23,80.2,2024-10-17,Active,yuvraj.sharma@studentmail.com,9360262196,Kolkata,West Bengal,A+,Daniel Sharma,9500478001
+STU0233,Pooja,Chatterjee,Female,2013-08-30,8,B,General,4.31,87.8,2022-06-02,Active,pooja.chatterjee@studentmail.com,9149100169,Hyderabad,Telangana,B-,Miguel Chatterjee,9294444396
+STU0234,Fatima,Pillai,Female,2010-03-23,11,D,Arts,6.81,82.7,2024-03-20,Active,fatima.pillai@studentmail.com,9795102868,Indore,Madhya Pradesh,B+,Anya Pillai,9719182977
+STU0235,Haruto,Johnson,Male,2011-06-21,10,D,General,7.79,88.5,2021-01-14,Active,haruto.johnson@studentmail.com,9785928549,Pune,Maharashtra,AB+,Siddharth Johnson,9223355414
+STU0236,Saanvi,Trivedi,Female,2010-12-06,11,B,Commerce,4.96,84.5,2024-04-19,Active,saanvi.trivedi@studentmail.com,9514481509,Chandigarh,Chandigarh,O-,Priya Trivedi,9536116672
+STU0237,Dev,Hall,Male,2010-08-07,11,D,Science,5.69,72.0,2023-02-09,Active,dev.hall@studentmail.com,9883505604,Mumbai,Maharashtra,B+,Nisha Hall,9412337120
+STU0238,Mei,Jones,Female,2013-11-30,8,D,General,7.0,72.5,2022-05-23,Active,mei.jones@studentmail.com,9834130683,Hyderabad,Telangana,B-,Nitya Jones,9741944243
+STU0239,Valentina,Williams,Female,2012-06-27,9,C,General,7.74,88.1,2021-11-09,Active,valentina.williams@studentmail.com,9585482321,Lucknow,Uttar Pradesh,O+,Ayaan Williams,9652390747
+STU0240,Varun,Thomas,Male,2015-06-03,6,B,General,7.56,92.3,2025-02-07,Active,varun.thomas@studentmail.com,9273231360,Lucknow,Uttar Pradesh,B+,Noah Thomas,9581050921
+STU0241,Nitya,Bose,Female,2012-01-14,9,D,General,6.9,95.8,2023-07-15,Active,nitya.bose@studentmail.com,9805462793,Delhi,Delhi,O+,Soo Bose,9613512435
+STU0242,Siddharth,Martinez,Male,2011-10-13,10,D,General,7.66,99.0,2020-10-14,Inactive,siddharth.martinez@studentmail.com,9172097044,Chandigarh,Chandigarh,A+,Victoria Martinez,9624211260
+STU0243,Anya,Gupta,Female,2011-01-11,10,D,General,3.96,72.7,2024-11-11,Active,anya.gupta@studentmail.com,9882322396,Surat,Gujarat,B+,Vihaan Gupta,9827308335
+STU0244,Ava,Desai,Female,2009-01-24,12,D,Commerce,7.52,86.0,2024-06-21,Active,ava.desai@studentmail.com,9913472012,Indore,Madhya Pradesh,AB+,Zara Desai,9807315674
+STU0245,Veer,Patel,Male,2011-12-12,10,D,General,3.98,88.2,2022-08-08,Active,veer.patel@studentmail.com,9940564740,Pune,Maharashtra,B+,Krishna Patel,9373181655
+STU0246,Charlotte,Nelson,Female,2010-09-25,11,D,Science,7.23,82.1,2021-04-20,Active,charlotte.nelson@studentmail.com,9708091735,Bengaluru,Karnataka,O+,Kabir Nelson,9722247182
+STU0247,Adaeze,Gupta,Female,2009-05-12,12,D,Commerce,9.39,85.9,2022-09-22,Active,adaeze.gupta@studentmail.com,9628487345,Indore,Madhya Pradesh,B-,Soo Gupta,9981933817
+STU0248,Jin,Adams,Male,2012-06-20,9,A,General,8.49,93.9,2026-01-07,Inactive,jin.adams@studentmail.com,9691707917,Kolkata,West Bengal,A-,Kunal Adams,9472129164
+STU0249,Pranav,Taylor,Male,2011-07-10,10,B,General,4.78,91.8,2022-12-05,Active,pranav.taylor@studentmail.com,9802902406,Bhopal,Madhya Pradesh,B-,Diego Taylor,9875091949
+STU0250,Kunal,Young,Male,2010-09-29,11,C,Commerce,8.79,94.5,2025-01-20,Inactive,kunal.young@studentmail.com,9819090944,Indore,Madhya Pradesh,B-,Kritika Young,9211169131
+STU0251,Sneha,Williams,Female,2012-02-06,9,C,General,6.53,90.6,2025-12-07,Active,sneha.williams@studentmail.com,9489223154,Lucknow,Uttar Pradesh,O-,Ananya Williams,9991190305
+STU0252,Femi,Bose,Male,2014-09-14,7,A,General,7.62,73.1,2023-11-15,Active,femi.bose@studentmail.com,9757481736,Chandigarh,Chandigarh,O+,Camila Bose,9419124363
+STU0253,William,Dutta,Male,2012-11-26,9,C,General,7.4,75.2,2024-09-25,Active,william.dutta@studentmail.com,9160599820,Chandigarh,Chandigarh,A-,Yuki Dutta,9835674320
+STU0254,Sneha,Nelson,Female,2012-11-04,9,A,General,5.49,91.9,2026-02-22,Active,sneha.nelson@studentmail.com,9192332752,Chennai,Tamil Nadu,AB-,Nisha Nelson,9146026419
+STU0255,Kwame,Turner,Male,2015-05-23,6,C,General,5.21,72.7,2022-12-01,Active,kwame.turner@studentmail.com,9954697155,Pune,Maharashtra,A-,Lily Turner,9843685345
+STU0256,Emma,Nair,Female,2014-02-02,7,B,General,9.42,79.6,2025-11-25,Active,emma.nair@studentmail.com,9387660935,Delhi,Delhi,A+,Sahil Nair,9606126272
+STU0257,Samuel,Campbell,Male,2012-05-11,9,C,General,7.24,91.5,2022-08-25,Inactive,samuel.campbell@studentmail.com,9550572221,Bhopal,Madhya Pradesh,A-,Pooja Campbell,9828823093
+STU0258,Ella,Roberts,Female,2012-06-27,9,C,General,5.75,90.2,2024-11-23,Active,ella.roberts@studentmail.com,9609471455,Jaipur,Rajasthan,B+,Camila Roberts,9934983312
+STU0259,Victoria,Ahmed,Female,2010-07-19,11,A,Arts,9.16,82.0,2024-11-03,Active,victoria.ahmed@studentmail.com,9108484480,Kolkata,West Bengal,B+,Ananya Ahmed,9141625995
+STU0260,Esha,Mehta,Female,2014-07-23,7,B,General,7.13,77.1,2025-08-08,Active,esha.mehta@studentmail.com,9731187659,Surat,Gujarat,A-,Pooja Mehta,9667285660
+STU0261,Rahul,Jones,Male,2013-10-01,8,C,General,9.54,83.9,2022-04-08,Active,rahul.jones@studentmail.com,9999766363,Pune,Maharashtra,A+,Jia Jones,9660960519
+STU0262,Nandini,Ahmed,Female,2010-05-20,11,B,Science,6.94,76.1,2020-11-27,Active,nandini.ahmed@studentmail.com,9947656722,Surat,Gujarat,B-,David Ahmed,9272622191
+STU0263,Manav,Mukherjee,Male,2015-11-23,6,A,General,4.9,89.6,2022-09-28,Inactive,manav.mukherjee@studentmail.com,9632467478,Bhopal,Madhya Pradesh,O+,Aryan Mukherjee,9818889111
+STU0264,Diya,Bhatia,Female,2012-12-05,9,C,General,6.08,97.1,2022-06-24,Active,diya.bhatia@studentmail.com,9355006783,Chandigarh,Chandigarh,O+,Ryan Bhatia,9311125802
+STU0265,Avni,Pillai,Female,2014-05-26,7,A,General,5.47,89.2,2023-06-30,Active,avni.pillai@studentmail.com,9803386689,Bhopal,Madhya Pradesh,B+,Amara Pillai,9833755351
+STU0266,Khushi,Garcia,Female,2009-04-09,12,B,Arts,5.96,85.0,2020-11-08,Active,khushi.garcia@studentmail.com,9668675284,Pune,Maharashtra,O+,Karan Garcia,9395912969
+STU0267,Tara,Jackson,Female,2015-06-24,6,C,General,8.96,88.6,2023-01-23,Active,tara.jackson@studentmail.com,9940065402,Jaipur,Rajasthan,O-,Ira Jackson,9842346265
+STU0268,Nikhil,Wright,Male,2009-04-21,12,C,Science,4.18,91.3,2025-05-18,Active,nikhil.wright@studentmail.com,9464976264,Kochi,Kerala,A-,Anika Wright,9852818746
+STU0269,Kunal,Singh,Male,2013-05-03,8,C,General,6.85,91.6,2024-05-17,Active,kunal.singh@studentmail.com,9152654888,Chennai,Tamil Nadu,B-,Nandini Singh,9632077345
+STU0270,Advait,Carter,Male,2014-08-09,7,D,General,7.36,88.8,2021-02-23,Active,advait.carter@studentmail.com,9650256718,Pune,Maharashtra,O-,Arjun Carter,9743070196
+STU0271,Sipho,Sheikh,Male,2009-01-26,12,A,Arts,8.98,76.8,2023-08-28,Active,sipho.sheikh@studentmail.com,9141472809,Ahmedabad,Gujarat,A+,Riya Sheikh,9363315545
+STU0272,Harper,Joshi,Female,2012-07-17,9,C,General,9.73,77.9,2023-06-01,Active,harper.joshi@studentmail.com,9794954079,Nagpur,Maharashtra,AB-,Sneha Joshi,9430251806
+STU0273,Lucas,Young,Male,2014-09-14,7,D,General,4.41,74.8,2021-07-08,Active,lucas.young@studentmail.com,9920638836,Surat,Gujarat,A+,Camila Young,9695906239
+STU0274,Vanya,Rodriguez,Female,2012-05-08,9,D,General,3.46,85.9,2022-07-01,Active,vanya.rodriguez@studentmail.com,9347366418,Surat,Gujarat,B+,Thabo Rodriguez,9428047626
+STU0275,Radhika,Mitchell,Female,2013-11-19,8,A,General,7.92,85.7,2025-08-22,Inactive,radhika.mitchell@studentmail.com,9415323705,Mumbai,Maharashtra,AB+,Mia Mitchell,9948057201
+STU0276,Sneha,Clark,Female,2011-10-05,10,A,General,9.76,84.3,2022-12-24,Inactive,sneha.clark@studentmail.com,9418460005,Chennai,Tamil Nadu,A+,Nisha Clark,9822193815
+STU0277,Mahi,Sheikh,Female,2010-11-15,11,A,Arts,8.54,74.4,2022-07-30,Active,mahi.sheikh@studentmail.com,9599014011,Lucknow,Uttar Pradesh,B+,Zara Sheikh,9405219625
+STU0278,Joseph,Menon,Male,2014-12-02,7,C,General,5.84,75.5,2022-04-13,Inactive,joseph.menon@studentmail.com,9578881546,Chennai,Tamil Nadu,B-,Ruhi Menon,9468799351
+STU0279,Carlos,Nelson,Male,2015-04-06,6,C,General,7.77,87.6,2025-02-09,Inactive,carlos.nelson@studentmail.com,9806514739,Indore,Madhya Pradesh,A-,Pooja Nelson,9935505428
+STU0280,Ishaan,Sheikh,Male,2010-04-16,11,C,Science,6.88,73.4,2022-01-31,Inactive,ishaan.sheikh@studentmail.com,9190215581,Hyderabad,Telangana,B+,Mia Sheikh,9452881477
+STU0281,Anika,Mishra,Female,2012-10-21,9,A,General,7.44,78.0,2025-12-18,Active,anika.mishra@studentmail.com,9755992415,Delhi,Delhi,O+,Pranav Mishra,9814263714
+STU0282,Nisha,Rao,Female,2010-09-26,11,B,Arts,4.54,77.4,2023-06-06,Active,nisha.rao@studentmail.com,9400771028,Bhopal,Madhya Pradesh,AB+,Kenji Rao,9450064666
+STU0283,Ethan,Dutta,Male,2009-07-06,12,C,Science,6.77,93.8,2021-09-07,Active,ethan.dutta@studentmail.com,9970818046,Chandigarh,Chandigarh,B+,Antonio Dutta,9342448463
+STU0284,Sophia,Brown,Female,2010-10-03,11,D,Science,6.98,83.9,2025-09-05,Inactive,sophia.brown@studentmail.com,9443289995,Mumbai,Maharashtra,O+,Rahul Brown,9555171562
+STU0285,Sophia,Clark,Female,2010-10-14,11,D,Science,3.93,97.4,2021-04-17,Active,sophia.clark@studentmail.com,9564249809,Indore,Madhya Pradesh,B-,Tara Clark,9901400319
+STU0286,Arjun,Campbell,Male,2014-11-02,7,D,General,7.57,79.4,2025-03-16,Inactive,arjun.campbell@studentmail.com,9764603675,Jaipur,Rajasthan,AB-,Caleb Campbell,9186205700
+STU0287,Chloe,Mitchell,Female,2009-10-18,12,D,Science,7.69,80.2,2022-12-26,Active,chloe.mitchell@studentmail.com,9118295537,Pune,Maharashtra,A-,Parth Mitchell,9610264429
+STU0288,Wei,Ahmed,Male,2010-05-22,11,C,Arts,3.88,78.9,2024-03-20,Active,wei.ahmed@studentmail.com,9974596409,Mumbai,Maharashtra,B-,Rahul Ahmed,9379098020
+STU0289,Diego,Phillips,Male,2011-10-18,10,A,General,3.56,94.6,2025-04-14,Active,diego.phillips@studentmail.com,9171400453,Chennai,Tamil Nadu,O+,Aryan Phillips,9788809988
+STU0290,Veer,Singh,Male,2011-08-08,10,B,General,6.21,94.3,2023-10-10,Active,veer.singh@studentmail.com,9231469311,Bengaluru,Karnataka,A+,Abhinav Singh,9468572938
+STU0291,Sofia,Brown,Female,2011-12-02,10,B,General,5.13,96.6,2024-06-03,Active,sofia.brown@studentmail.com,9866964104,Delhi,Delhi,AB-,Sophia Brown,9705844843
+STU0292,Daniel,Lee,Male,2011-12-13,10,B,General,5.03,89.4,2026-01-22,Active,daniel.lee@studentmail.com,9815180154,Surat,Gujarat,A-,Marco Lee,9780814528
+STU0293,Anya,Desai,Female,2014-11-08,7,B,General,6.1,76.8,2020-10-18,Inactive,anya.desai@studentmail.com,9738824821,Jaipur,Rajasthan,B+,Sofia Desai,9416571691
+STU0294,Aryan,Khan,Male,2009-06-11,12,B,Science,6.36,99.9,2021-03-13,Active,aryan.khan@studentmail.com,9648414942,Chandigarh,Chandigarh,B-,Yasmin Khan,9312859589
+STU0295,Atharv,Ahmed,Male,2009-03-31,12,D,Commerce,9.21,78.8,2024-10-01,Active,atharv.ahmed@studentmail.com,9593387877,Ahmedabad,Gujarat,AB+,Vikram Ahmed,9690230374
+STU0296,Simran,Roberts,Female,2013-04-23,8,A,General,5.74,81.5,2026-05-09,Active,simran.roberts@studentmail.com,9775367008,Ahmedabad,Gujarat,B+,Isha Roberts,9692317532
+STU0297,Gauri,Williams,Female,2010-01-13,11,C,Science,4.78,76.0,2021-05-01,Inactive,gauri.williams@studentmail.com,9181716148,Hyderabad,Telangana,A-,Emily Williams,9453227926
+STU0298,Rahul,Ahmed,Male,2013-02-02,8,B,General,4.99,96.2,2025-07-15,Active,rahul.ahmed@studentmail.com,9560401876,Ahmedabad,Gujarat,B-,Yuvraj Ahmed,9312643557
+STU0299,Om,Phillips,Male,2009-08-24,12,C,Science,4.49,73.3,2025-10-12,Active,om.phillips@studentmail.com,9899010442,Delhi,Delhi,A+,Camila Phillips,9453066631
+STU0300,Nitya,Clark,Female,2010-10-29,11,B,Commerce,6.19,79.1,2021-08-17,Active,nitya.clark@studentmail.com,9895779114,Mumbai,Maharashtra,O+,Riya Clark,9600010209
+STU0301,Raj,Sharma,Male,2014-06-22,7,D,General,5.83,95.6,2022-03-25,Active,raj.sharma@studentmail.com,9261117850,Indore,Madhya Pradesh,B+,Vikram Sharma,9408508558
+STU0302,Mei,Banerjee,Female,2012-01-30,9,D,General,7.8,81.7,2024-04-26,Active,mei.banerjee@studentmail.com,9868357969,Mumbai,Maharashtra,B-,Pranav Banerjee,9107156901
+STU0303,Neha,Hussain,Female,2014-07-06,7,D,General,9.28,82.3,2021-08-06,Active,neha.hussain@studentmail.com,9106527013,Indore,Madhya Pradesh,A-,Gaurav Hussain,9943575606
+STU0304,Tara,Hall,Female,2015-04-26,6,D,General,5.95,90.2,2021-08-30,Active,tara.hall@studentmail.com,9297265791,Lucknow,Uttar Pradesh,A+,Jin Hall,9938917240
+STU0305,Adaeze,Nelson,Female,2013-04-26,8,B,General,4.97,92.0,2022-10-23,Active,adaeze.nelson@studentmail.com,9763562622,Lucknow,Uttar Pradesh,A-,Tara Nelson,9756663329
+STU0306,Aisha,Chatterjee,Female,2012-04-15,9,A,General,6.13,76.5,2021-07-30,Active,aisha.chatterjee@studentmail.com,9756373182,Mumbai,Maharashtra,A-,Sneha Chatterjee,9922487673
+STU0307,Carmen,Miller,Female,2012-05-12,9,D,General,6.85,92.2,2025-10-05,Active,carmen.miller@studentmail.com,9508483848,Mumbai,Maharashtra,O+,Thabo Miller,9681838075
+STU0308,Nia,Smith,Female,2014-02-20,7,A,General,7.78,79.5,2024-04-19,Active,nia.smith@studentmail.com,9264559712,Kochi,Kerala,B-,Vanya Smith,9759400873
+STU0309,Camila,Garcia,Female,2013-07-20,8,C,General,3.97,95.9,2020-10-29,Inactive,camila.garcia@studentmail.com,9214383937,Hyderabad,Telangana,O-,Camila Garcia,9460873516
+STU0310,Andrew,Menon,Male,2011-01-15,10,A,General,6.65,94.1,2022-10-16,Active,andrew.menon@studentmail.com,9783738123,Mumbai,Maharashtra,O-,Charlotte Menon,9771040880
+STU0311,Krishna,Brown,Male,2011-05-21,10,D,General,8.36,75.6,2020-06-27,Active,krishna.brown@studentmail.com,9223140676,Hyderabad,Telangana,AB-,Anika Brown,9433598410
+STU0312,Lucas,Banerjee,Male,2015-11-08,6,B,General,4.44,86.5,2023-08-13,Active,lucas.banerjee@studentmail.com,9582600353,Chandigarh,Chandigarh,O-,Tanvi Banerjee,9956588526
+STU0313,Femi,Bhatia,Male,2010-12-08,11,D,Commerce,5.81,84.5,2026-05-11,Active,femi.bhatia@studentmail.com,9486337160,Jaipur,Rajasthan,O-,Om Bhatia,9676374303
+STU0314,Layla,Brown,Female,2011-10-08,10,A,General,3.99,99.1,2022-05-18,Inactive,layla.brown@studentmail.com,9250522484,Mumbai,Maharashtra,O+,Divya Brown,9807522959
+STU0315,Abhinav,Kapoor,Male,2010-12-23,11,C,Arts,7.04,81.9,2021-02-13,Active,abhinav.kapoor@studentmail.com,9119094342,Chandigarh,Chandigarh,O-,Isabella Kapoor,9585014916
+STU0316,Rohan,Harris,Male,2014-10-30,7,D,General,6.43,89.2,2026-01-18,Active,rohan.harris@studentmail.com,9588653538,Kolkata,West Bengal,A+,Ella Harris,9877308699
+STU0317,Antonio,Sheikh,Male,2014-03-14,7,B,General,5.56,76.6,2021-01-05,Active,antonio.sheikh@studentmail.com,9463870873,Jaipur,Rajasthan,O+,Lucia Sheikh,9264356659
+STU0318,Abhinav,Walker,Male,2015-06-05,6,D,General,8.47,96.3,2026-02-14,Active,abhinav.walker@studentmail.com,9715081855,Kolkata,West Bengal,AB-,Yash Walker,9720607439
+STU0319,Harper,Saxena,Female,2013-06-05,8,D,General,5.69,93.7,2023-02-20,Active,harper.saxena@studentmail.com,9413913618,Jaipur,Rajasthan,B-,Lucas Saxena,9999420926
+STU0320,Neha,Lee,Female,2012-05-12,9,C,General,3.99,95.5,2021-07-19,Active,neha.lee@studentmail.com,9797727806,Hyderabad,Telangana,A+,Yasmin Lee,9232506600
+STU0321,Atharv,Banerjee,Male,2015-01-31,6,B,General,4.73,87.7,2021-10-21,Active,atharv.banerjee@studentmail.com,9636185358,Kolkata,West Bengal,A+,Adaeze Banerjee,9288460738
+STU0322,Jia,Mukherjee,Female,2013-04-12,8,D,General,4.93,79.6,2020-08-29,Active,jia.mukherjee@studentmail.com,9567903412,Kolkata,West Bengal,O+,Isha Mukherjee,9644519579
+STU0323,Gauri,Miller,Female,2009-07-11,12,A,Arts,6.64,93.1,2025-03-27,Inactive,gauri.miller@studentmail.com,9323827401,Chandigarh,Chandigarh,AB+,Advait Miller,9882031953
+STU0324,Anya,Lopez,Female,2010-06-04,11,D,Arts,3.6,73.5,2021-04-14,Inactive,anya.lopez@studentmail.com,9264904179,Bhopal,Madhya Pradesh,O-,Shaurya Lopez,9250570337
+STU0325,Caleb,Khan,Male,2015-08-20,6,C,General,4.74,73.1,2022-04-25,Inactive,caleb.khan@studentmail.com,9102230447,Nagpur,Maharashtra,O+,Aditya Khan,9544485610
+STU0326,Manav,Campbell,Male,2015-01-17,6,B,General,7.44,72.7,2024-02-19,Active,manav.campbell@studentmail.com,9565638113,Bhopal,Madhya Pradesh,AB-,David Campbell,9332356459
+STU0327,Noor,Miller,Female,2012-02-06,9,D,General,5.61,75.4,2024-07-26,Active,noor.miller@studentmail.com,9195869460,Ahmedabad,Gujarat,AB+,Olivia Miller,9516717633
+STU0328,Joseph,Trivedi,Male,2010-10-01,11,A,Commerce,8.4,78.0,2026-01-07,Active,joseph.trivedi@studentmail.com,9711459353,Hyderabad,Telangana,A-,Emma Trivedi,9894931289
+STU0329,Kabir,Martin,Male,2014-01-26,7,A,General,8.66,84.8,2021-01-10,Active,kabir.martin@studentmail.com,9829248324,Bhopal,Madhya Pradesh,O+,Oliver Martin,9706344742
+STU0330,Diego,Malhotra,Male,2010-11-02,11,B,Arts,5.32,92.9,2022-07-19,Active,diego.malhotra@studentmail.com,9751273495,Delhi,Delhi,B-,Saanvi Malhotra,9122208292
+STU0331,Evelyn,Dutta,Female,2013-01-16,8,C,General,8.91,86.1,2020-12-11,Active,evelyn.dutta@studentmail.com,9257538544,Jaipur,Rajasthan,O-,Ethan Dutta,9211080032
+STU0332,Emma,Trivedi,Female,2015-09-25,6,D,General,6.14,72.2,2022-07-17,Active,emma.trivedi@studentmail.com,9723108369,Delhi,Delhi,A+,Soo Trivedi,9797305561
+STU0333,Carlos,Martinez,Male,2015-12-06,6,D,General,6.4,93.0,2021-09-25,Active,carlos.martinez@studentmail.com,9405650254,Surat,Gujarat,B+,Mason Martinez,9984250360
+STU0334,Vivaan,Anderson,Male,2014-01-27,7,B,General,8.9,73.0,2021-06-11,Active,vivaan.anderson@studentmail.com,9207158377,Ahmedabad,Gujarat,O+,Isabella Anderson,9332754169
+STU0335,Thabo,Ahmed,Male,2010-05-25,11,D,Science,4.71,81.6,2023-03-19,Active,thabo.ahmed@studentmail.com,9328183741,Ahmedabad,Gujarat,B+,Pranav Ahmed,9703080440
+STU0336,Vikram,Scott,Male,2010-09-16,11,B,Commerce,6.29,81.5,2025-12-10,Active,vikram.scott@studentmail.com,9356016709,Lucknow,Uttar Pradesh,O+,Camila Scott,9518520727
+STU0337,Soo,Hall,Female,2009-10-07,12,C,Commerce,5.87,99.7,2024-08-28,Inactive,soo.hall@studentmail.com,9755801520,Pune,Maharashtra,A-,Nikhil Hall,9725707833
+STU0338,Liam,Johnson,Male,2012-09-28,9,D,General,6.99,78.8,2023-02-23,Inactive,liam.johnson@studentmail.com,9782676282,Indore,Madhya Pradesh,A-,Kajal Johnson,9204518738
+STU0339,Valentina,Bose,Female,2009-07-02,12,C,Science,9.48,81.9,2023-02-28,Inactive,valentina.bose@studentmail.com,9425125960,Surat,Gujarat,AB+,Jia Bose,9777439255
+STU0340,Divya,Rao,Female,2015-06-04,6,C,General,4.91,95.9,2024-10-27,Active,divya.rao@studentmail.com,9505962829,Chennai,Tamil Nadu,B-,Ananya Rao,9106627491
+STU0341,Parth,Bose,Male,2011-02-20,10,D,General,8.1,89.3,2022-12-06,Active,parth.bose@studentmail.com,9841864488,Jaipur,Rajasthan,B-,Vivaan Bose,9163947435
+STU0342,Sneha,Hall,Female,2009-08-15,12,B,Commerce,8.59,91.3,2020-07-13,Inactive,sneha.hall@studentmail.com,9499902096,Chandigarh,Chandigarh,B-,Samuel Hall,9826802366
+STU0343,Sipho,Banerjee,Male,2009-02-09,12,D,Arts,7.93,84.9,2022-09-17,Active,sipho.banerjee@studentmail.com,9180205690,Bengaluru,Karnataka,O+,Abigail Banerjee,9907047766
+STU0344,Radhika,Adams,Female,2010-02-18,11,C,Science,5.55,81.5,2020-09-26,Active,radhika.adams@studentmail.com,9914658468,Pune,Maharashtra,B+,Trisha Adams,9776610121
+STU0345,Harper,Brown,Female,2009-07-17,12,B,Arts,3.94,80.8,2024-10-18,Active,harper.brown@studentmail.com,9776521869,Kochi,Kerala,O+,Kabir Brown,9794589721
+STU0346,Nathan,Scott,Male,2010-01-21,11,D,Arts,7.71,89.1,2026-05-29,Active,nathan.scott@studentmail.com,9165628450,Surat,Gujarat,O-,Aarav Scott,9882496009
+STU0347,Siddharth,Verma,Male,2012-07-14,9,C,General,3.86,99.2,2023-01-19,Active,siddharth.verma@studentmail.com,9696441541,Jaipur,Rajasthan,O+,Amelia Verma,9885727225
+STU0348,Tara,Clark,Female,2012-02-13,9,D,General,7.11,95.2,2023-05-22,Inactive,tara.clark@studentmail.com,9722871278,Chandigarh,Chandigarh,O+,Esha Clark,9118654419
+STU0349,Sahil,Dutta,Male,2012-12-24,9,B,General,7.54,82.4,2021-12-05,Inactive,sahil.dutta@studentmail.com,9919935988,Indore,Madhya Pradesh,O+,Aarav Dutta,9796755952
+STU0350,Ishaan,Taylor,Male,2014-03-12,7,D,General,3.89,84.3,2023-07-31,Inactive,ishaan.taylor@studentmail.com,9901825767,Bhopal,Madhya Pradesh,O-,Nathan Taylor,9338135732
+STU0351,Owen,Mitchell,Male,2014-10-17,7,B,General,6.38,82.4,2026-01-11,Inactive,owen.mitchell@studentmail.com,9934242976,Jaipur,Rajasthan,O+,Gaurav Mitchell,9305612753
+STU0352,Meera,Brown,Female,2012-07-06,9,D,General,8.84,99.1,2022-08-08,Active,meera.brown@studentmail.com,9888821518,Bhopal,Madhya Pradesh,O+,Khushi Brown,9807948830
+STU0353,Nathan,Anderson,Male,2011-08-11,10,C,General,8.91,92.0,2023-12-07,Active,nathan.anderson@studentmail.com,9748914781,Chennai,Tamil Nadu,B-,Olivia Anderson,9864511259
+STU0354,Kwame,Adams,Male,2011-03-21,10,A,General,9.29,83.5,2021-10-15,Active,kwame.adams@studentmail.com,9129015306,Ahmedabad,Gujarat,A+,Noor Adams,9185412250
+STU0355,Yuki,Sharma,Female,2012-02-04,9,A,General,7.46,73.5,2023-08-03,Inactive,yuki.sharma@studentmail.com,9645010532,Ahmedabad,Gujarat,A-,Luis Sharma,9520162731
+STU0356,Sara,Chopra,Female,2013-03-23,8,B,General,4.69,87.1,2023-06-14,Active,sara.chopra@studentmail.com,9319602882,Nagpur,Maharashtra,O+,Oliver Chopra,9148283259
+STU0357,Henry,Hussain,Male,2011-02-28,10,C,General,6.39,76.8,2023-04-19,Active,henry.hussain@studentmail.com,9339395769,Kolkata,West Bengal,A-,Nia Hussain,9421181448
+STU0358,Joseph,Mehta,Male,2013-10-24,8,A,General,8.85,73.5,2021-07-20,Active,joseph.mehta@studentmail.com,9929386924,Bhopal,Madhya Pradesh,B-,Harper Mehta,9491830095
+STU0359,Manav,Bhatia,Male,2015-12-16,6,A,General,7.46,91.4,2024-05-01,Active,manav.bhatia@studentmail.com,9972888746,Lucknow,Uttar Pradesh,B+,Carmen Bhatia,9837676250
+STU0360,Atharv,Williams,Male,2010-03-16,11,A,Commerce,7.95,96.2,2021-01-03,Active,atharv.williams@studentmail.com,9689335466,Lucknow,Uttar Pradesh,A-,Nitya Williams,9347960091
+STU0361,Riya,Roberts,Female,2014-09-17,7,B,General,7.58,94.0,2026-03-06,Active,riya.roberts@studentmail.com,9108434776,Jaipur,Rajasthan,A-,Shaurya Roberts,9451359839
+STU0362,Isabella,Pillai,Female,2012-10-24,9,A,General,4.67,79.2,2025-07-03,Active,isabella.pillai@studentmail.com,9238295441,Ahmedabad,Gujarat,A-,Fatima Pillai,9393011150
+STU0363,Lucas,Saxena,Male,2012-03-11,9,B,General,3.73,88.0,2025-06-10,Inactive,lucas.saxena@studentmail.com,9913014678,Lucknow,Uttar Pradesh,B-,Antonio Saxena,9608298159
+STU0364,Soo,Harris,Female,2012-04-04,9,A,General,7.5,91.2,2022-05-23,Active,soo.harris@studentmail.com,9564476547,Jaipur,Rajasthan,AB-,Isha Harris,9496397415
+STU0365,Hannah,Wright,Female,2012-01-24,9,C,General,6.7,97.6,2022-08-31,Active,hannah.wright@studentmail.com,9506640111,Chandigarh,Chandigarh,B-,Vanya Wright,9146382977
+STU0366,Charlotte,Lewis,Female,2011-11-16,10,C,General,7.3,86.0,2024-07-16,Active,charlotte.lewis@studentmail.com,9638283649,Indore,Madhya Pradesh,A-,Benjamin Lewis,9743077125
+STU0367,Aditya,Kumar,Male,2014-12-16,7,D,General,7.55,76.2,2023-01-10,Active,aditya.kumar@studentmail.com,9560954440,Delhi,Delhi,A-,Thabo Kumar,9229874434
+STU0368,Aisha,Hall,Female,2015-11-23,6,C,General,3.5,78.5,2023-12-21,Inactive,aisha.hall@studentmail.com,9682394137,Indore,Madhya Pradesh,A-,Kajal Hall,9910911312
+STU0369,Vivaan,Dutta,Male,2015-04-24,6,C,General,8.74,96.3,2024-12-14,Inactive,vivaan.dutta@studentmail.com,9247979066,Mumbai,Maharashtra,A-,Gaurav Dutta,9503129172
+STU0370,Ava,Ahmed,Female,2014-04-18,7,B,General,9.04,91.2,2026-05-19,Active,ava.ahmed@studentmail.com,9631184877,Indore,Madhya Pradesh,O-,Lakshay Ahmed,9150286044
+STU0371,Vihaan,Iyer,Male,2013-05-16,8,D,General,8.45,78.7,2022-10-29,Active,vihaan.iyer@studentmail.com,9437333643,Pune,Maharashtra,AB+,Antonio Iyer,9474621623
+STU0372,Emily,Lee,Female,2010-01-29,11,A,Science,6.54,87.9,2026-03-14,Active,emily.lee@studentmail.com,9956091686,Kochi,Kerala,B+,Nakul Lee,9130307178
+STU0373,Emma,Bhatia,Female,2009-06-16,12,D,Commerce,6.51,85.3,2024-03-09,Active,emma.bhatia@studentmail.com,9873474209,Bengaluru,Karnataka,AB-,Sipho Bhatia,9614330615
+STU0374,Ruhi,Green,Female,2011-10-03,10,A,General,5.04,90.5,2023-05-07,Active,ruhi.green@studentmail.com,9180297444,Kochi,Kerala,O+,Haruto Green,9819061662
+STU0375,William,Bose,Male,2009-04-25,12,C,Science,5.39,78.9,2022-11-04,Active,william.bose@studentmail.com,9618684289,Ahmedabad,Gujarat,O-,Siddharth Bose,9271255316
+STU0376,Tanvi,Nair,Female,2015-11-22,6,D,General,5.19,91.3,2025-08-07,Active,tanvi.nair@studentmail.com,9434454123,Mumbai,Maharashtra,A-,Isabella Nair,9654998727
+STU0377,Ananya,Clark,Female,2015-10-31,6,B,General,6.6,95.0,2024-05-20,Inactive,ananya.clark@studentmail.com,9779509190,Delhi,Delhi,AB-,Saanvi Clark,9451794140
+STU0378,Carmen,Hall,Female,2011-07-25,10,D,General,6.89,76.9,2023-02-22,Active,carmen.hall@studentmail.com,9451545573,Bhopal,Madhya Pradesh,AB+,Veer Hall,9516926810
+STU0379,Miguel,Kapoor,Male,2013-01-17,8,D,General,8.99,88.3,2024-03-24,Active,miguel.kapoor@studentmail.com,9417757298,Jaipur,Rajasthan,A-,Joseph Kapoor,9413085968
+STU0380,Krishna,Shah,Male,2009-01-09,12,A,Commerce,5.86,78.1,2024-08-29,Active,krishna.shah@studentmail.com,9601023120,Nagpur,Maharashtra,AB+,Vihaan Shah,9632198064
+STU0381,Khushi,Chopra,Female,2011-10-06,10,D,General,5.96,75.8,2023-11-24,Active,khushi.chopra@studentmail.com,9536363064,Jaipur,Rajasthan,O+,Aarav Chopra,9355959487
+STU0382,Olivia,Campbell,Female,2013-08-29,8,D,General,9.54,89.0,2020-11-11,Active,olivia.campbell@studentmail.com,9326033003,Delhi,Delhi,A+,Yasmin Campbell,9391540352
+STU0383,Reyansh,Johnson,Male,2011-03-12,10,C,General,9.49,87.5,2024-03-06,Active,reyansh.johnson@studentmail.com,9655530056,Bengaluru,Karnataka,A-,Sipho Johnson,9910932967
+STU0384,Lucas,Campbell,Male,2012-04-17,9,A,General,6.66,83.6,2023-11-09,Active,lucas.campbell@studentmail.com,9209525514,Bhopal,Madhya Pradesh,AB-,Charlotte Campbell,9647827743
+STU0385,Meera,Qureshi,Female,2013-10-22,8,A,General,7.84,98.2,2022-04-05,Active,meera.qureshi@studentmail.com,9226265454,Chennai,Tamil Nadu,O+,Yuki Qureshi,9421973528
+STU0386,Chidinma,Miller,Female,2010-05-30,11,D,Commerce,9.5,75.3,2021-06-21,Active,chidinma.miller@studentmail.com,9906441355,Bhopal,Madhya Pradesh,AB+,Neha Miller,9689891248
+STU0387,Benjamin,Turner,Male,2014-03-17,7,A,General,4.61,88.8,2023-05-18,Inactive,benjamin.turner@studentmail.com,9286138404,Kochi,Kerala,AB-,Sahil Turner,9445709002
+STU0388,Haruto,Bhatia,Male,2013-03-10,8,C,General,5.77,90.5,2022-11-10,Inactive,haruto.bhatia@studentmail.com,9285928295,Mumbai,Maharashtra,AB-,Matthew Bhatia,9610312344
+STU0389,Nisha,Dutta,Female,2009-06-18,12,A,Arts,6.02,78.5,2020-10-04,Active,nisha.dutta@studentmail.com,9264171165,Delhi,Delhi,A-,Pari Dutta,9247749814
+STU0390,Ethan,Shah,Male,2014-10-25,7,B,General,7.62,80.6,2023-08-27,Active,ethan.shah@studentmail.com,9460105249,Surat,Gujarat,AB-,Neha Shah,9313460923
+STU0391,Nandini,Lewis,Female,2014-11-01,7,D,General,8.01,92.4,2025-04-09,Inactive,nandini.lewis@studentmail.com,9731354104,Kochi,Kerala,O-,Thandiwe Lewis,9466459813
+STU0392,Abigail,Agarwal,Female,2012-03-11,9,C,General,6.75,80.9,2021-06-15,Active,abigail.agarwal@studentmail.com,9682610603,Indore,Madhya Pradesh,A-,Vivaan Agarwal,9532523982
+STU0393,Daniel,Ahmed,Male,2013-10-28,8,D,General,5.06,88.2,2023-09-22,Inactive,daniel.ahmed@studentmail.com,9879241131,Surat,Gujarat,A-,Riya Ahmed,9539368554
+STU0394,Henry,Campbell,Male,2015-03-31,6,B,General,9.63,77.6,2024-07-03,Active,henry.campbell@studentmail.com,9218766330,Mumbai,Maharashtra,B+,Nandini Campbell,9369821612
+STU0395,Ethan,Banerjee,Male,2010-10-02,11,A,Science,4.65,89.1,2024-08-09,Active,ethan.banerjee@studentmail.com,9511616474,Ahmedabad,Gujarat,A-,Nikhil Banerjee,9425099994
+STU0396,Anya,Thomas,Female,2014-11-25,7,A,General,7.89,88.4,2022-10-30,Active,anya.thomas@studentmail.com,9679073244,Surat,Gujarat,AB-,Sipho Thomas,9925210948
+STU0397,Kunal,Jackson,Male,2014-02-21,7,B,General,5.29,81.3,2024-11-18,Active,kunal.jackson@studentmail.com,9400974376,Bhopal,Madhya Pradesh,B-,Charlotte Jackson,9456442452
+STU0398,Myra,Green,Female,2010-05-27,11,C,Arts,8.44,99.6,2022-10-04,Inactive,myra.green@studentmail.com,9674760769,Kochi,Kerala,B+,Priya Green,9589557702
+STU0399,Jose,Brown,Male,2012-12-22,9,B,General,9.31,79.8,2021-02-09,Active,jose.brown@studentmail.com,9843784846,Bhopal,Madhya Pradesh,O+,James Brown,9624855611
+STU0400,Aryan,Turner,Male,2014-07-28,7,C,General,4.48,90.0,2020-07-08,Active,aryan.turner@studentmail.com,9277725511,Mumbai,Maharashtra,AB+,Maria Turner,9486443563
+STU0401,Sneha,Menon,Female,2009-10-05,12,D,Science,3.51,90.6,2021-04-20,Active,sneha.menon@studentmail.com,9388632491,Bengaluru,Karnataka,A+,Isabella Menon,9350111336
+STU0402,Karan,Adams,Male,2010-08-08,11,B,Science,3.28,85.9,2024-10-21,Inactive,karan.adams@studentmail.com,9545803757,Hyderabad,Telangana,A+,Aditya Adams,9706876440
+STU0403,Sanya,Walker,Female,2011-02-20,10,A,General,8.31,86.8,2026-02-03,Active,sanya.walker@studentmail.com,9783485552,Bhopal,Madhya Pradesh,A+,Diya Walker,9929582761
+STU0404,Nakul,Sharma,Male,2009-10-09,12,D,Commerce,4.14,91.9,2020-12-09,Active,nakul.sharma@studentmail.com,9229006862,Surat,Gujarat,O-,Liam Sharma,9362648869
+STU0405,Diego,Nelson,Male,2015-05-08,6,D,General,7.19,96.0,2021-12-05,Active,diego.nelson@studentmail.com,9787655494,Nagpur,Maharashtra,B-,Diya Nelson,9679082475
+STU0406,Om,Hussain,Male,2011-04-12,10,A,General,6.84,79.4,2024-12-11,Active,om.hussain@studentmail.com,9213103878,Kolkata,West Bengal,B-,Aryan Hussain,9744130177
+STU0407,Ali,Williams,Male,2013-11-02,8,A,General,5.76,83.5,2025-07-10,Active,ali.williams@studentmail.com,9897653505,Surat,Gujarat,AB+,Hassan Williams,9281401322
+STU0408,Elizabeth,Shah,Female,2015-03-24,6,A,General,5.39,79.0,2025-08-13,Inactive,elizabeth.shah@studentmail.com,9873197003,Mumbai,Maharashtra,A-,Kritika Shah,9905858379
+STU0409,Isabella,Moore,Female,2012-10-15,9,B,General,7.3,82.9,2024-02-24,Active,isabella.moore@studentmail.com,9254346348,Surat,Gujarat,O+,Layla Moore,9479661736
+STU0410,Karan,Rao,Male,2013-09-21,8,B,General,5.44,86.4,2023-02-02,Active,karan.rao@studentmail.com,9153782739,Bengaluru,Karnataka,A-,Victoria Rao,9410899191
+STU0411,Hana,Turner,Female,2013-11-18,8,C,General,6.11,85.7,2021-05-29,Active,hana.turner@studentmail.com,9618430045,Surat,Gujarat,O+,Minjun Turner,9402836079
+STU0412,Elizabeth,Moore,Female,2011-03-12,10,D,General,9.11,72.2,2021-12-01,Active,elizabeth.moore@studentmail.com,9696761526,Nagpur,Maharashtra,O-,Manav Moore,9961920949
+STU0413,Sara,Davis,Female,2015-02-01,6,B,General,6.66,99.6,2022-07-28,Active,sara.davis@studentmail.com,9930775829,Surat,Gujarat,B-,Avni Davis,9499374909
+STU0414,Kwame,Martinez,Male,2011-02-27,10,D,General,6.24,82.8,2020-12-01,Active,kwame.martinez@studentmail.com,9186728394,Pune,Maharashtra,B-,Aadhya Martinez,9364682450
+STU0415,Siya,Qureshi,Female,2012-04-16,9,D,General,6.06,87.3,2023-04-20,Inactive,siya.qureshi@studentmail.com,9943370795,Hyderabad,Telangana,A-,Gaurav Qureshi,9329070887
+STU0416,Ayaan,Williams,Male,2015-08-30,6,B,General,5.41,83.2,2025-11-19,Active,ayaan.williams@studentmail.com,9481482622,Chandigarh,Chandigarh,AB-,Dhruv Williams,9152692462
+STU0417,Diego,Chopra,Male,2010-01-26,11,A,Science,6.36,88.0,2021-09-13,Inactive,diego.chopra@studentmail.com,9521795872,Lucknow,Uttar Pradesh,A-,Caleb Chopra,9472691630
+STU0418,Nakul,Campbell,Male,2012-08-18,9,A,General,7.11,76.6,2024-04-10,Active,nakul.campbell@studentmail.com,9932088080,Hyderabad,Telangana,AB+,Kajal Campbell,9982454378
+STU0419,Sanya,Phillips,Female,2013-10-28,8,C,General,6.41,77.0,2025-06-30,Active,sanya.phillips@studentmail.com,9111570126,Mumbai,Maharashtra,A-,Yash Phillips,9239027106
+STU0420,Joseph,Smith,Male,2012-02-27,9,A,General,4.26,78.5,2022-03-12,Active,joseph.smith@studentmail.com,9748014613,Indore,Madhya Pradesh,O+,Amara Smith,9898517295
+STU0421,Aadhya,Baker,Female,2011-04-12,10,C,General,3.97,99.5,2020-10-25,Active,aadhya.baker@studentmail.com,9999686630,Surat,Gujarat,AB+,Kritika Baker,9300757726
+STU0422,Nikhil,Davis,Male,2014-09-10,7,C,General,9.06,79.7,2026-04-04,Active,nikhil.davis@studentmail.com,9814652533,Chennai,Tamil Nadu,O-,Krishna Davis,9594586160
+STU0423,Priya,Mehta,Female,2013-01-01,8,C,General,8.81,75.7,2022-09-09,Active,priya.mehta@studentmail.com,9859875230,Lucknow,Uttar Pradesh,AB+,Harper Mehta,9397371297
+STU0424,Veer,Wilson,Male,2015-08-10,6,C,General,6.48,73.2,2025-11-25,Active,veer.wilson@studentmail.com,9499982622,Surat,Gujarat,AB-,Matthew Wilson,9757995445
+STU0425,Omar,Agarwal,Male,2014-09-23,7,A,General,3.79,91.9,2024-03-03,Active,omar.agarwal@studentmail.com,9164451963,Lucknow,Uttar Pradesh,A+,William Agarwal,9804082891
+STU0426,Joseph,Iyer,Male,2014-12-05,7,C,General,8.53,99.2,2021-12-25,Active,joseph.iyer@studentmail.com,9626305654,Kolkata,West Bengal,B+,Victoria Iyer,9190304653
+STU0427,Aarav,Smith,Male,2015-10-14,6,A,General,7.75,88.0,2022-01-07,Active,aarav.smith@studentmail.com,9680784696,Ahmedabad,Gujarat,AB+,Ava Smith,9820314105
+STU0428,Sneha,Turner,Female,2014-02-09,7,B,General,6.31,75.9,2025-11-06,Active,sneha.turner@studentmail.com,9809433617,Chandigarh,Chandigarh,AB-,Rudra Turner,9514588749
+STU0429,Om,Wilson,Male,2009-09-19,12,C,Commerce,8.24,93.3,2022-04-29,Active,om.wilson@studentmail.com,9867075683,Nagpur,Maharashtra,AB-,Priya Wilson,9567594481
+STU0430,Hannah,Perez,Female,2013-10-31,8,C,General,4.29,87.8,2022-12-11,Active,hannah.perez@studentmail.com,9183969204,Mumbai,Maharashtra,O+,Carmen Perez,9659714811
+STU0431,Sofia,Khan,Female,2012-01-18,9,C,General,6.36,93.1,2025-09-17,Active,sofia.khan@studentmail.com,9227607728,Nagpur,Maharashtra,O+,Victoria Khan,9824762337
+STU0432,Caleb,Davis,Male,2011-08-25,10,C,General,3.33,81.3,2021-01-26,Active,caleb.davis@studentmail.com,9994608392,Hyderabad,Telangana,O+,Samuel Davis,9203135070
+STU0433,Soo,Iyer,Female,2010-08-11,11,C,Arts,9.29,82.1,2021-11-23,Active,soo.iyer@studentmail.com,9739305394,Bhopal,Madhya Pradesh,O-,Radhika Iyer,9897873129
+STU0434,Arjun,Taylor,Male,2011-08-28,10,B,General,7.49,90.0,2024-12-06,Inactive,arjun.taylor@studentmail.com,9318284855,Ahmedabad,Gujarat,AB-,Krishna Taylor,9586099412
+STU0435,Karan,Wright,Male,2012-12-05,9,C,General,8.64,96.2,2021-01-19,Active,karan.wright@studentmail.com,9117704597,Indore,Madhya Pradesh,B-,Sanya Wright,9896025534
+STU0436,Pooja,Joshi,Female,2013-01-10,8,D,General,9.66,82.4,2025-05-04,Active,pooja.joshi@studentmail.com,9997261775,Bengaluru,Karnataka,AB+,Kavya Joshi,9651685781
+STU0437,Fatima,Malhotra,Female,2011-04-20,10,A,General,7.46,94.0,2024-08-07,Active,fatima.malhotra@studentmail.com,9637856924,Ahmedabad,Gujarat,B-,Esha Malhotra,9823958488
+STU0438,Kritika,Kumar,Female,2011-08-21,10,A,General,9.43,89.5,2025-11-09,Inactive,kritika.kumar@studentmail.com,9798330046,Hyderabad,Telangana,B-,Noor Kumar,9298452297
+STU0439,Meera,Lee,Female,2014-02-24,7,C,General,7.42,77.2,2024-02-04,Active,meera.lee@studentmail.com,9309268668,Chennai,Tamil Nadu,O+,Charlotte Lee,9205572759
+STU0440,Olivia,Wilson,Female,2012-09-15,9,A,General,6.15,82.3,2025-08-07,Inactive,olivia.wilson@studentmail.com,9819615021,Chandigarh,Chandigarh,B-,Saanvi Wilson,9341179750
+STU0441,Kavya,Perez,Female,2013-07-13,8,D,General,6.41,80.0,2025-03-15,Active,kavya.perez@studentmail.com,9270498214,Lucknow,Uttar Pradesh,A+,Kenji Perez,9211777293
+STU0442,Sang,Walker,Male,2011-07-25,10,C,General,8.9,90.8,2024-08-04,Active,sang.walker@studentmail.com,9560833464,Chandigarh,Chandigarh,O+,Pranav Walker,9990037017
+STU0443,Avni,Trivedi,Female,2013-04-16,8,C,General,6.72,93.4,2025-06-29,Active,avni.trivedi@studentmail.com,9598021885,Hyderabad,Telangana,A-,Kajal Trivedi,9498624029
+STU0444,Harsh,Scott,Male,2014-11-08,7,A,General,7.16,93.6,2024-02-04,Active,harsh.scott@studentmail.com,9495698151,Delhi,Delhi,A+,Yuki Scott,9385244780
+STU0445,Nitya,Desai,Female,2010-04-08,11,A,Commerce,8.32,77.4,2020-12-06,Active,nitya.desai@studentmail.com,9260587488,Mumbai,Maharashtra,O+,Trisha Desai,9622364224
+STU0446,Yuki,Miller,Female,2009-05-12,12,D,Arts,8.14,82.5,2022-07-20,Active,yuki.miller@studentmail.com,9859507903,Pune,Maharashtra,A+,Elizabeth Miller,9856606255
+STU0447,Miguel,Nelson,Male,2014-03-25,7,A,General,5.79,76.1,2021-12-18,Active,miguel.nelson@studentmail.com,9680899042,Kochi,Kerala,O-,Sophia Nelson,9407827021
+STU0448,Mei,Walker,Female,2011-04-09,10,B,General,6.34,88.0,2025-08-31,Active,mei.walker@studentmail.com,9851371682,Nagpur,Maharashtra,A-,Abhinav Walker,9586790231
+STU0449,Grace,Ahmed,Female,2015-08-25,6,B,General,8.49,83.9,2023-03-11,Active,grace.ahmed@studentmail.com,9518126778,Bengaluru,Karnataka,AB+,Liam Ahmed,9225429977
+STU0450,Neha,Malhotra,Female,2012-11-11,9,C,General,8.19,80.0,2024-04-07,Active,neha.malhotra@studentmail.com,9139038034,Kolkata,West Bengal,A+,William Malhotra,9335777520
+STU0451,Matthew,Dutta,Male,2010-11-12,11,A,Science,5.95,87.2,2021-06-06,Active,matthew.dutta@studentmail.com,9362540341,Surat,Gujarat,O+,Dhruv Dutta,9498722659
+STU0452,Amelia,Pandey,Female,2014-07-13,7,A,General,6.39,77.9,2022-01-18,Active,amelia.pandey@studentmail.com,9428908062,Surat,Gujarat,O-,Anika Pandey,9543748694
+STU0453,Anika,Green,Female,2013-11-28,8,C,General,8.99,89.5,2021-09-17,Active,anika.green@studentmail.com,9903821867,Jaipur,Rajasthan,A-,David Green,9961267931
+STU0454,Yash,Reddy,Male,2012-03-04,9,D,General,5.91,89.0,2022-11-29,Active,yash.reddy@studentmail.com,9816475813,Jaipur,Rajasthan,A+,Mia Reddy,9460811772
+STU0455,Victoria,Wilson,Female,2009-08-25,12,A,Science,8.31,80.2,2025-03-02,Inactive,victoria.wilson@studentmail.com,9728664959,Kochi,Kerala,AB+,Vikram Wilson,9527503922
+STU0456,Thandiwe,Lewis,Female,2009-11-16,12,A,Commerce,9.56,95.7,2025-08-21,Inactive,thandiwe.lewis@studentmail.com,9454282183,Lucknow,Uttar Pradesh,AB+,Nitya Lewis,9462722045
+STU0457,Riya,Baker,Female,2015-01-23,6,D,General,8.52,77.6,2026-03-03,Active,riya.baker@studentmail.com,9941716790,Surat,Gujarat,O+,Carmen Baker,9352482939
+STU0458,Divya,Green,Female,2010-05-15,11,B,Science,6.69,74.5,2020-08-15,Inactive,divya.green@studentmail.com,9863166479,Indore,Madhya Pradesh,O+,Kavya Green,9409050648
+STU0459,Noah,Bhatia,Male,2011-08-12,10,C,General,7.7,93.8,2023-08-17,Active,noah.bhatia@studentmail.com,9889177547,Ahmedabad,Gujarat,A-,Esha Bhatia,9282402247
+STU0460,Luis,Qureshi,Male,2012-03-11,9,C,General,7.79,87.9,2021-07-25,Active,luis.qureshi@studentmail.com,9527164350,Hyderabad,Telangana,O+,Amara Qureshi,9165273279
+STU0461,Ali,Iyer,Male,2010-02-04,11,C,Science,4.29,85.3,2021-06-28,Active,ali.iyer@studentmail.com,9236243640,Pune,Maharashtra,B-,Victoria Iyer,9301291549
+STU0462,Meera,Bose,Female,2009-11-12,12,A,Commerce,7.91,87.0,2022-04-17,Active,meera.bose@studentmail.com,9680378609,Pune,Maharashtra,AB+,Dev Bose,9864394211
+STU0463,Chidinma,Agarwal,Female,2009-02-14,12,A,Science,8.3,96.9,2022-12-25,Active,chidinma.agarwal@studentmail.com,9805974538,Kolkata,West Bengal,O-,Atharv Agarwal,9349513204
+STU0464,Jin,Khan,Male,2015-04-16,6,C,General,3.74,82.5,2025-10-25,Active,jin.khan@studentmail.com,9532797907,Ahmedabad,Gujarat,AB-,Trisha Khan,9218964815
+STU0465,Gauri,Qureshi,Female,2012-04-28,9,D,General,6.61,84.3,2021-05-24,Active,gauri.qureshi@studentmail.com,9209136080,Surat,Gujarat,O-,Saanvi Qureshi,9805393624
+STU0466,Pooja,Martin,Female,2015-02-14,6,B,General,6.81,88.2,2022-04-22,Active,pooja.martin@studentmail.com,9191473438,Chennai,Tamil Nadu,B+,Isabella Martin,9670083461
+STU0467,Simran,Saxena,Female,2014-09-06,7,D,General,7.24,88.7,2023-01-30,Active,simran.saxena@studentmail.com,9199664733,Mumbai,Maharashtra,AB-,Mason Saxena,9785457763
+STU0468,Joseph,Garcia,Male,2014-03-03,7,A,General,7.52,96.6,2024-04-07,Active,joseph.garcia@studentmail.com,9580208336,Ahmedabad,Gujarat,AB-,Ishaan Garcia,9311538953
+STU0469,Valentina,Nair,Female,2014-06-09,7,D,General,3.61,87.3,2023-12-30,Active,valentina.nair@studentmail.com,9547981247,Bengaluru,Karnataka,AB+,Ali Nair,9808192661
+STU0470,Thabo,Thomas,Male,2010-06-05,11,C,Commerce,4.54,98.6,2023-12-23,Active,thabo.thomas@studentmail.com,9459271104,Surat,Gujarat,AB+,Atharv Thomas,9259292348
+STU0471,Haruto,Singh,Male,2015-12-07,6,D,General,5.89,99.6,2022-08-28,Active,haruto.singh@studentmail.com,9702203399,Indore,Madhya Pradesh,O+,Yuvraj Singh,9524102066
+STU0472,Harper,Gupta,Female,2013-04-13,8,C,General,6.71,92.6,2023-01-08,Inactive,harper.gupta@studentmail.com,9560587457,Ahmedabad,Gujarat,O-,Gauri Gupta,9171665072
+STU0473,Emily,Martin,Female,2009-07-31,12,C,Science,8.74,84.1,2021-03-06,Inactive,emily.martin@studentmail.com,9509016054,Delhi,Delhi,B+,Sofia Martin,9114824161
+STU0474,Ayaan,Roberts,Male,2012-11-05,9,B,General,4.4,73.4,2025-08-17,Active,ayaan.roberts@studentmail.com,9984549283,Mumbai,Maharashtra,B-,Diego Roberts,9465315783
+STU0475,Advait,Trivedi,Male,2011-06-07,10,B,General,5.02,82.4,2025-02-13,Active,advait.trivedi@studentmail.com,9439944751,Jaipur,Rajasthan,A-,Amelia Trivedi,9533522749
+STU0476,Nakul,Hall,Male,2014-08-06,7,B,General,6.94,99.9,2024-08-15,Inactive,nakul.hall@studentmail.com,9738955048,Delhi,Delhi,A-,Victoria Hall,9745365829
+STU0477,Ava,Shah,Female,2013-02-19,8,B,General,6.49,94.3,2023-04-04,Active,ava.shah@studentmail.com,9348830670,Jaipur,Rajasthan,O+,Ava Shah,9647696757
+STU0478,Minjun,Qureshi,Male,2009-04-15,12,C,Arts,4.69,99.8,2025-11-14,Inactive,minjun.qureshi@studentmail.com,9226170822,Chandigarh,Chandigarh,B+,Karan Qureshi,9811959996
+STU0479,Advait,Sharma,Male,2012-12-17,9,A,General,5.51,76.5,2020-10-30,Active,advait.sharma@studentmail.com,9881150159,Ahmedabad,Gujarat,AB-,Minjun Sharma,9284169666
+STU0480,Antonio,Roberts,Male,2011-01-09,10,B,General,9.88,85.2,2024-10-16,Active,antonio.roberts@studentmail.com,9850866079,Mumbai,Maharashtra,A+,Olivia Roberts,9232399585
+STU0481,Om,Pillai,Male,2014-07-30,7,B,General,7.99,89.8,2021-09-16,Active,om.pillai@studentmail.com,9880217855,Pune,Maharashtra,O+,Abhinav Pillai,9881603086
+STU0482,Vikram,Wilson,Male,2013-05-05,8,B,General,5.06,73.7,2022-06-04,Active,vikram.wilson@studentmail.com,9522866204,Surat,Gujarat,AB-,Aisha Wilson,9580140243
+STU0483,Mason,Brown,Male,2010-04-22,11,A,Commerce,8.78,79.7,2022-08-15,Active,mason.brown@studentmail.com,9108418900,Ahmedabad,Gujarat,AB-,Rahul Brown,9406101214
+STU0484,Parth,Rao,Male,2014-04-15,7,D,General,9.26,97.9,2021-07-25,Active,parth.rao@studentmail.com,9122788851,Delhi,Delhi,AB+,Saanvi Rao,9594931994
+STU0485,Yuvraj,Chatterjee,Male,2014-10-29,7,A,General,8.26,73.2,2022-04-14,Active,yuvraj.chatterjee@studentmail.com,9858806985,Jaipur,Rajasthan,AB+,Arjun Chatterjee,9681306399
+STU0486,Vivaan,Martinez,Male,2015-12-18,6,B,General,9.43,87.9,2020-08-29,Active,vivaan.martinez@studentmail.com,9266384636,Mumbai,Maharashtra,A+,Karan Martinez,9469773732
+STU0487,William,Davis,Male,2012-06-03,9,C,General,9.21,93.3,2024-09-12,Active,william.davis@studentmail.com,9238718914,Kolkata,West Bengal,A-,Daniel Davis,9424389717
+STU0488,Nia,Scott,Female,2012-06-11,9,D,General,5.74,98.8,2021-08-24,Inactive,nia.scott@studentmail.com,9937614190,Bhopal,Madhya Pradesh,O+,Dev Scott,9652283772
+STU0489,Myra,Qureshi,Female,2013-06-25,8,B,General,8.39,89.3,2022-07-26,Active,myra.qureshi@studentmail.com,9662140530,Ahmedabad,Gujarat,AB+,Andrew Qureshi,9237686507
+STU0490,Anika,Perez,Female,2009-05-15,12,D,Science,5.14,84.0,2026-01-23,Inactive,anika.perez@studentmail.com,9715881424,Mumbai,Maharashtra,A-,Valentina Perez,9160779996
+STU0491,Harsh,Johnson,Male,2009-11-08,12,C,Commerce,6.96,94.6,2023-08-08,Active,harsh.johnson@studentmail.com,9617630051,Mumbai,Maharashtra,B+,Ayaan Johnson,9440661362
+STU0492,Hana,Patel,Female,2014-05-08,7,A,General,7.34,92.1,2021-01-21,Active,hana.patel@studentmail.com,9309988269,Bengaluru,Karnataka,O-,Amara Patel,9888819722
+STU0493,Thabo,Carter,Male,2010-05-13,11,D,Science,9.24,95.6,2025-10-01,Active,thabo.carter@studentmail.com,9358980396,Ahmedabad,Gujarat,A+,Jin Carter,9120075064
+STU0494,Meera,Patel,Female,2011-09-27,10,D,General,8.49,89.0,2020-12-13,Active,meera.patel@studentmail.com,9217390490,Bhopal,Madhya Pradesh,A+,Ethan Patel,9851605083
+STU0495,Khushi,Pillai,Female,2009-05-23,12,D,Science,8.04,80.0,2022-07-25,Active,khushi.pillai@studentmail.com,9728049639,Bengaluru,Karnataka,B-,Krishna Pillai,9729930089
+STU0496,Sara,Trivedi,Female,2009-10-12,12,C,Commerce,7.71,78.2,2022-05-25,Active,sara.trivedi@studentmail.com,9834023732,Lucknow,Uttar Pradesh,B+,Siddharth Trivedi,9418719869
+STU0497,Esha,Green,Female,2014-07-01,7,A,General,9.42,99.7,2021-06-16,Active,esha.green@studentmail.com,9982503403,Chennai,Tamil Nadu,AB+,Luis Green,9158267511
+STU0498,Nitya,Walker,Female,2011-04-09,10,B,General,6.09,79.5,2023-01-13,Active,nitya.walker@studentmail.com,9600277055,Lucknow,Uttar Pradesh,AB+,Vanya Walker,9590946760
+STU0499,Aadhya,Martin,Female,2013-07-15,8,C,General,7.54,77.8,2024-01-04,Active,aadhya.martin@studentmail.com,9133965260,Indore,Madhya Pradesh,AB-,Trisha Martin,9709684641
+STU0500,Mason,Pandey,Male,2013-03-09,8,D,General,5.14,86.2,2022-01-09,Active,mason.pandey@studentmail.com,9449279357,Chandigarh,Chandigarh,A-,Noor Pandey,9287343382
